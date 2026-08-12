@@ -1,0 +1,1004 @@
+student_id,gender,study_mode,subject,attendance,study_hours,internal_marks,participation,previous_score,assignment_completion,weak_subjects,final_score,performance_level
+STU1001,Female,Online,English,77.3,4.3,57.8,5.5,83.2,35.9,1,73.4,Average
+STU1002,Male,Classroom,Computer Science,69.2,2.2,53.6,5.0,75.9,23.8,2,58.1,Average
+STU1003,Female,Blended,Mathematics,73.0,4.9,65.1,7.5,92.6,35.9,2,86.1,High
+STU1004,Female,Blended,English,85.6,5.2,64.4,7.1,46.9,48.4,3,78.0,High
+STU1005,Male,Blended,Mathematics,78.0,0.9,48.7,3.4,63.6,22.0,0,50.1,Average
+STU1006,Female,Blended,Mathematics,82.1,1.8,46.6,9.0,61.0,20.0,3,66.4,Average
+STU1007,Other,Blended,Social Science,86.0,4.0,40.8,6.3,41.3,25.4,1,57.1,Average
+STU1008,Female,Classroom,Science,73.5,3.3,53.8,4.1,80.8,35.3,0,65.3,Average
+STU1009,Female,Classroom,English,87.1,3.8,48.8,9.1,63.5,32.6,1,77.8,High
+STU1010,Female,Blended,Science,82.5,2.5,62.2,7.9,76.6,33.8,2,74.3,Average
+STU1011,Male,Blended,Science,63.2,5.1,61.1,3.7,97.7,45.1,0,80.2,High
+STU1012,Male,Classroom,Science,95.3,5.0,61.0,10.0,62.4,36.8,2,85.8,High
+STU1013,Female,Classroom,Science,72.0,3.9,55.5,7.9,61.5,25.1,3,69.4,Average
+STU1014,Female,Classroom,Computer Science,58.1,5.5,64.8,6.5,68.5,54.6,1,84.1,High
+STU1015,Male,Classroom,Social Science,65.5,4.5,61.9,10.0,79.8,42.1,0,93.3,High
+STU1016,Male,Classroom,English,65.7,2.5,43.8,6.9,59.6,24.5,1,58.9,Average
+STU1017,Female,Classroom,Social Science,78.6,4.4,59.8,6.4,58.8,31.7,3,82.2,High
+STU1018,Female,Classroom,Computer Science,74.7,2.4,56.8,5.0,80.7,23.7,0,74.4,Average
+STU1019,Female,Blended,Computer Science,74.0,5.1,54.7,7.8,71.9,33.3,2,78.8,High
+STU1020,Female,Blended,Science,85.4,3.7,44.0,7.5,40.4,44.8,2,68.4,Average
+STU1021,Male,Blended,Mathematics,82.1,3.5,46.6,6.5,51.1,29.4,2,67.3,Average
+STU1022,Other,Blended,Social Science,81.8,2.8,55.9,4.8,86.5,39.7,0,84.5,High
+STU1023,Other,Classroom,English,82.9,5.6,48.3,6.8,72.2,43.3,1,84.0,High
+STU1024,Male,Classroom,Science,85.4,3.6,36.8,6.3,57.1,28.0,3,68.6,Average
+STU1025,Female,Blended,Computer Science,52.7,3.2,35.1,3.6,64.8,23.6,0,59.8,Average
+STU1026,Other,Blended,Science,73.6,3.3,37.7,3.3,67.2,20.0,2,68.4,Average
+STU1027,Female,Blended,Computer Science,51.8,4.6,50.2,7.7,76.6,35.2,1,87.8,High
+STU1028,Female,Blended,Science,78.4,4.3,42.2,1.0,49.3,35.0,1,62.5,Average
+STU1029,Male,Blended,Social Science,77.9,4.4,47.9,7.0,56.1,46.2,3,70.7,Average
+STU1030,Female,Blended,Science,90.5,4.4,54.9,5.4,70.5,26.2,0,85.1,High
+STU1031,Male,Blended,Mathematics,92.3,7.0,55.0,9.4,65.7,65.7,1,100.0,High
+STU1032,Other,Blended,Computer Science,80.4,3.2,47.6,5.4,74.4,39.7,3,78.3,High
+STU1033,Male,Classroom,Mathematics,72.0,3.0,49.2,8.0,51.0,42.1,4,63.0,Average
+STU1034,Male,Classroom,Social Science,83.8,2.6,53.4,5.6,71.6,30.4,2,65.5,Average
+STU1035,Female,Classroom,Computer Science,71.7,4.7,52.5,6.8,81.2,48.0,1,82.4,High
+STU1036,Female,Blended,Science,78.0,5.5,60.4,,73.3,33.8,0,85.7,High
+STU1037,Male,Blended,Mathematics,89.8,3.6,66.5,5.5,68.8,42.8,1,83.0,High
+STU1038,Male,Classroom,Social Science,71.3,2.5,50.1,8.7,65.8,23.7,3,61.0,Average
+STU1039,Male,Classroom,Computer Science,87.7,2.6,37.4,4.3,56.1,20.0,1,65.7,Average
+STU1040,Female,Blended,Social Science,86.1,4.8,53.5,7.1,66.1,34.0,2,73.1,Average
+STU1041,Female,Classroom,Mathematics,66.5,4.9,61.4,8.5,83.4,40.9,3,86.9,High
+STU1042,Female,Blended,Social Science,89.7,4.6,54.7,8.0,65.5,36.6,1,91.6,High
+STU1043,Male,Classroom,English,86.4,2.8,50.7,10.0,55.4,37.6,1,62.2,Average
+STU1044,Male,Classroom,Computer Science,79.2,4.1,37.0,,60.6,22.9,0,82.3,High
+STU1045,Other,Classroom,Science,68.9,4.0,39.8,3.5,69.6,20.0,2,61.2,Average
+STU1046,Female,Classroom,Mathematics,67.7,4.1,44.4,4.3,62.1,46.0,2,68.3,Average
+STU1047,Male,Classroom,Social Science,71.5,5.1,56.3,8.0,73.3,49.6,2,89.3,High
+STU1048,Female,Classroom,Social Science,84.5,4.1,52.5,7.6,73.8,31.3,1,86.4,High
+STU1049,Female,Classroom,Science,66.5,4.8,54.9,6.7,78.6,39.4,2,83.2,High
+STU1050,Female,Classroom,Social Science,83.3,3.9,55.0,4.0,85.5,44.7,1,85.5,High
+STU1051,Male,Blended,Mathematics,63.1,4.2,63.4,8.2,79.9,40.0,0,90.7,High
+STU1052,Male,Classroom,Mathematics,75.6,4.7,43.7,3.8,54.9,40.4,1,80.9,High
+STU1053,Female,Classroom,Mathematics,79.3,1.6,48.8,9.0,55.3,35.6,1,68.7,Average
+STU1054,Male,Classroom,Science,100.0,3.3,53.6,10.0,66.0,33.8,4,88.3,High
+STU1055,Male,Online,Mathematics,61.5,3.1,50.5,7.3,61.1,30.4,2,71.8,Average
+STU1056,Female,Blended,Science,95.7,2.8,50.3,7.8,52.2,35.2,3,56.3,Average
+STU1057,Female,Online,Mathematics,79.8,3.4,52.7,5.4,61.3,31.8,1,85.9,High
+STU1058,Male,Online,Computer Science,82.9,6.0,53.3,2.5,60.8,43.3,0,78.7,High
+STU1059,Male,Classroom,Social Science,79.4,2.5,47.3,5.2,58.3,30.0,2,69.8,Average
+STU1060,Male,Blended,Computer Science,83.3,5.3,49.0,4.1,62.9,43.6,3,74.3,Average
+STU1061,Female,Classroom,Mathematics,76.2,1.3,47.4,3.3,82.3,20.0,1,65.1,Average
+STU1062,Male,Online,Computer Science,95.4,3.3,65.5,10.0,69.6,45.1,1,83.1,High
+STU1063,Male,Classroom,Science,72.5,4.0,58.0,7.1,98.0,29.0,1,90.4,High
+STU1064,Female,Classroom,Computer Science,91.6,4.7,52.1,7.3,69.2,41.8,2,81.4,High
+STU1065,Female,Online,English,70.3,4.9,51.3,5.8,63.2,37.5,3,82.7,High
+STU1066,Other,Blended,Science,77.3,5.0,55.8,6.1,67.1,44.8,2,83.2,High
+STU1067,Female,Online,Mathematics,65.1,3.3,46.8,8.6,70.3,20.0,2,76.5,High
+STU1068,Male,Classroom,Social Science,83.5,3.1,51.4,6.4,72.7,40.9,2,59.8,Average
+STU1069,Male,Classroom,Social Science,95.3,5.1,66.4,7.7,94.0,41.0,0,100.0,High
+STU1070,Female,Classroom,Computer Science,77.1,3.5,30.2,6.1,56.0,44.2,1,68.4,Average
+STU1071,Male,Classroom,Social Science,75.6,1.9,47.7,5.7,78.2,22.1,0,68.8,Average
+STU1072,Female,Classroom,Social Science,64.6,2.1,40.8,3.4,69.7,23.4,0,64.4,Average
+STU1073,Male,Classroom,Mathematics,75.2,2.4,32.8,2.1,46.6,42.0,3,44.3,Low
+STU1074,Male,Blended,Computer Science,58.9,4.5,62.8,5.9,77.0,34.1,1,81.0,High
+STU1075,Male,Classroom,Science,67.0,4.0,47.5,6.6,83.5,45.4,1,86.9,High
+STU1076,Female,Blended,English,80.7,4.8,39.6,3.7,55.9,40.9,0,59.3,Average
+STU1077,Male,Online,Mathematics,93.8,3.2,33.0,6.4,66.9,39.2,4,67.7,Average
+STU1078,Male,Blended,Social Science,100.0,4.0,43.0,6.6,44.6,42.1,1,70.9,Average
+STU1079,Male,Classroom,Computer Science,71.0,4.7,36.5,1.8,50.6,44.1,4,51.3,Average
+STU1080,Male,Classroom,Science,95.2,3.3,50.1,4.5,80.6,30.6,0,79.7,High
+STU1081,Female,Classroom,Science,80.9,4.5,59.8,7.4,60.9,32.8,1,88.5,High
+STU1082,Male,Blended,English,76.2,2.8,50.8,7.4,52.6,26.3,0,75.2,High
+STU1083,Female,Classroom,Computer Science,83.2,3.3,48.1,4.0,70.0,34.0,2,66.1,Average
+STU1084,Female,Classroom,Social Science,78.7,3.2,45.3,6.8,60.2,32.0,1,75.0,High
+STU1085,Male,Online,Science,79.3,2.0,55.5,8.7,60.9,34.4,1,75.3,High
+STU1086,Male,Blended,English,73.1,4.5,57.7,8.2,76.6,50.4,0,88.9,High
+STU1087,Other,Blended,English,61.2,3.1,36.0,6.3,51.9,21.8,3,51.2,Average
+STU1088,Male,Classroom,Science,59.5,3.8,31.1,5.5,55.2,26.7,3,53.6,Average
+STU1089,Female,Online,English,85.8,4.5,49.0,5.1,69.0,29.1,3,78.0,High
+STU1090,Male,Classroom,Mathematics,74.7,4.5,63.2,7.5,79.6,55.8,0,90.6,High
+STU1091,Female,Classroom,Mathematics,70.8,4.8,74.5,6.9,83.1,42.6,1,84.7,High
+STU1092,Male,Online,Science,78.1,3.7,50.1,7.9,58.4,40.1,0,67.2,Average
+STU1093,Male,Online,Social Science,87.5,3.2,50.0,6.8,79.2,24.3,1,81.4,High
+STU1094,Female,Classroom,Science,80.2,3.7,41.8,8.3,56.8,37.0,1,70.3,Average
+STU1095,Female,Classroom,Science,70.1,1.3,56.9,6.7,90.7,26.4,2,68.9,Average
+STU1096,Female,Classroom,Computer Science,92.7,1.6,33.0,8.2,52.3,26.9,4,61.7,Average
+STU1097,Male,Blended,Social Science,97.0,1.8,61.6,8.4,84.3,39.3,3,67.6,Average
+STU1098,Male,Blended,English,83.9,2.3,48.4,4.7,58.5,47.5,1,63.7,Average
+STU1099,Female,Classroom,Mathematics,89.7,4.4,59.9,2.5,93.2,31.8,2,79.1,High
+STU1100,Female,Classroom,Computer Science,92.9,2.4,56.0,9.9,74.7,25.7,2,79.7,High
+STU1101,Female,Blended,Science,91.6,3.2,51.5,7.1,53.8,29.2,2,76.9,High
+STU1102,Female,Blended,Computer Science,85.4,5.7,49.3,2.7,60.2,58.3,0,73.8,Average
+STU1103,Male,Classroom,Science,85.2,3.3,46.4,4.9,77.2,42.5,1,77.0,High
+STU1104,Male,Blended,Mathematics,84.2,4.9,74.4,8.2,80.7,42.7,3,97.1,High
+STU1105,Female,Online,Science,64.8,2.4,42.6,5.9,66.1,26.9,2,58.9,Average
+STU1106,Male,Classroom,Computer Science,86.4,3.5,55.2,5.4,67.6,29.2,2,70.8,Average
+STU1107,Female,Blended,Science,61.7,2.4,37.0,9.6,76.9,34.9,1,73.2,Average
+STU1108,Female,Blended,Mathematics,68.5,3.3,54.7,4.2,68.7,27.8,5,61.2,Average
+STU1109,Male,Blended,English,93.6,5.1,57.3,4.7,50.2,42.4,3,77.8,High
+STU1110,Female,Online,Computer Science,88.1,1.2,43.6,7.0,56.4,30.3,2,60.9,Average
+STU1111,Female,Blended,Mathematics,95.8,4.5,60.8,7.4,70.1,41.7,1,81.1,High
+STU1112,Male,Classroom,Computer Science,74.7,4.2,62.4,7.6,82.8,36.2,1,91.9,High
+STU1113,Male,Classroom,Computer Science,64.2,2.9,53.2,8.5,88.0,30.4,1,85.4,High
+STU1114,Female,Blended,Science,75.1,1.6,53.8,6.9,77.1,31.5,1,69.2,Average
+STU1115,Male,Classroom,Social Science,79.2,3.9,48.6,,70.7,50.8,2,69.0,Average
+STU1116,Female,Classroom,Social Science,78.9,3.0,47.6,5.9,76.7,36.9,3,67.6,Average
+STU1117,Male,Classroom,Science,91.6,4.1,58.4,6.6,58.3,47.0,0,83.6,High
+STU1118,Female,Blended,Mathematics,73.7,3.8,57.0,6.7,65.0,34.2,0,71.5,Average
+STU1119,Male,Online,Science,82.2,,48.7,7.0,56.3,43.6,1,84.2,High
+STU1120,Female,Blended,Mathematics,66.1,3.4,40.4,8.2,50.8,38.4,2,57.5,Average
+STU1121,Male,Blended,English,83.4,2.3,47.0,7.7,71.3,31.6,4,67.8,Average
+STU1122,Male,Classroom,Social Science,78.0,4.1,57.6,6.6,69.4,26.3,3,75.0,Average
+STU1123,Female,Classroom,Social Science,69.0,4.1,44.0,4.7,75.9,32.8,2,61.0,Average
+STU1124,Male,Online,Science,75.2,5.8,60.3,6.6,74.1,45.4,1,92.8,High
+STU1125,Female,Classroom,English,75.8,5.1,59.7,6.4,70.2,38.0,1,84.2,High
+STU1126,Male,Blended,Mathematics,74.8,4.3,54.3,6.9,74.2,50.4,0,88.1,High
+STU1127,Female,Blended,English,99.3,6.0,70.4,10.0,66.4,56.7,2,98.3,High
+STU1128,Female,Classroom,Mathematics,76.8,2.0,44.9,5.3,72.4,37.6,2,57.6,Average
+STU1129,Male,Blended,Social Science,75.1,2.8,45.1,7.4,57.6,33.5,4,56.4,Average
+STU1130,Female,Classroom,Social Science,52.8,2.4,43.2,8.9,71.8,26.6,1,64.1,Average
+STU1131,Male,Classroom,Mathematics,67.3,,58.8,6.7,75.7,24.0,1,74.6,Average
+STU1132,Male,Classroom,Computer Science,74.8,1.7,42.8,10.0,58.3,27.2,3,62.3,Average
+STU1133,Female,Classroom,English,69.8,4.8,53.5,5.7,67.7,39.3,2,75.3,High
+STU1134,Female,Classroom,Computer Science,94.6,3.5,49.9,7.2,58.9,27.0,0,74.1,Average
+STU1135,Male,Online,English,76.0,1.6,33.4,4.7,60.2,20.0,3,46.8,Low
+STU1136,Male,Classroom,Mathematics,93.5,2.3,38.9,5.7,52.4,28.5,2,74.1,Average
+STU1137,Female,Blended,Computer Science,78.7,4.3,68.3,7.0,83.5,42.4,0,86.0,High
+STU1138,Female,Blended,Mathematics,78.4,5.1,62.8,8.4,80.9,47.3,0,92.0,High
+STU1139,Male,Classroom,English,76.9,6.8,53.8,7.2,74.0,46.8,0,100.0,High
+STU1140,Male,Classroom,Mathematics,78.0,8.2,75.8,9.3,92.6,63.3,1,100.0,High
+STU1141,Male,Online,Computer Science,98.6,4.4,52.6,6.3,64.5,41.5,3,69.2,Average
+STU1142,Female,Blended,Social Science,50.2,2.3,78.2,,98.0,20.0,1,81.1,High
+STU1143,Male,Online,Mathematics,54.0,0.6,47.2,10.0,64.0,20.0,5,44.4,Low
+STU1144,Male,Classroom,Science,71.5,4.2,50.8,7.4,70.3,46.2,1,85.5,High
+STU1145,Female,Blended,Computer Science,78.2,2.6,54.0,4.9,61.8,20.0,3,58.7,Average
+STU1146,Female,Blended,Mathematics,86.3,3.2,37.1,5.0,71.8,34.8,1,66.3,Average
+STU1147,Female,Online,English,83.7,2.9,50.9,4.4,77.9,44.4,1,81.7,High
+STU1148,Male,Classroom,Computer Science,73.4,3.6,66.4,8.6,65.5,29.3,1,83.5,High
+STU1149,Female,Online,Science,90.2,5.4,62.0,5.7,90.1,46.1,0,100.0,High
+STU1150,Male,Classroom,Social Science,90.4,4.0,42.3,6.8,70.1,29.4,3,75.6,High
+STU1151,Male,Blended,English,80.2,3.6,48.9,6.4,70.5,48.4,1,73.6,Average
+STU1152,Female,Blended,Computer Science,89.6,2.2,57.3,8.1,55.2,30.7,1,73.9,Average
+STU1153,Male,Blended,Mathematics,81.3,1.3,47.5,4.6,72.4,23.8,1,66.9,Average
+STU1154,Male,Classroom,Mathematics,71.3,3.1,38.5,4.1,65.3,41.1,2,62.2,Average
+STU1155,Female,Blended,Mathematics,86.4,3.7,44.9,7.0,59.1,42.9,4,78.6,High
+STU1156,Male,Classroom,Social Science,79.3,6.5,51.4,7.8,56.9,43.4,4,88.0,High
+STU1157,Male,Classroom,Social Science,78.0,4.0,65.8,7.2,98.0,32.5,0,93.2,High
+STU1158,Female,Blended,Computer Science,95.7,5.3,61.8,4.7,63.6,49.9,1,87.1,High
+STU1159,Male,Blended,Mathematics,48.6,3.1,48.7,8.0,48.1,23.0,1,63.5,Average
+STU1160,Male,Classroom,English,61.0,2.0,42.5,4.9,57.9,20.0,3,42.9,Low
+STU1161,Female,Blended,Computer Science,63.8,2.4,34.7,5.4,66.3,25.5,2,56.1,Average
+STU1162,Other,Classroom,Computer Science,73.6,2.7,38.1,4.4,74.1,20.0,1,64.3,Average
+STU1163,Male,Blended,Mathematics,74.9,7.0,68.1,9.4,74.2,66.1,1,100.0,High
+STU1164,Male,Blended,Social Science,59.9,2.6,41.8,7.9,75.8,29.0,1,70.6,Average
+STU1165,Female,Blended,Mathematics,66.2,5.1,49.8,7.8,58.6,33.9,3,75.2,High
+STU1166,Female,Blended,Mathematics,67.7,2.4,54.5,9.2,71.4,23.4,2,75.4,High
+STU1167,Female,Blended,Social Science,100.0,5.2,49.9,10.0,55.6,33.9,2,90.5,High
+STU1168,Male,Classroom,English,99.6,4.4,39.2,2.7,58.9,32.4,0,72.9,Average
+STU1169,Male,Blended,Science,73.1,3.6,42.5,4.9,55.1,41.5,2,55.5,Average
+STU1170,Male,Classroom,English,73.6,3.7,46.3,5.1,51.6,52.4,5,70.3,Average
+STU1171,Female,Classroom,Social Science,64.2,2.8,56.6,4.6,80.8,33.8,3,64.8,Average
+STU1172,Male,Blended,Mathematics,55.1,4.5,53.5,4.1,76.0,33.6,0,75.6,High
+STU1173,Male,Classroom,Computer Science,76.6,3.1,53.2,5.8,79.7,28.8,1,72.1,Average
+STU1174,Male,Classroom,Science,66.0,2.0,36.4,3.8,67.5,20.0,1,51.8,Average
+STU1175,Male,Online,Mathematics,77.0,1.9,43.7,7.2,77.1,43.4,4,71.6,Average
+STU1176,Male,Classroom,English,58.8,4.1,37.8,6.6,44.1,32.7,2,70.2,Average
+STU1177,Female,Classroom,English,68.9,6.2,63.4,7.6,78.2,63.9,0,100.0,High
+STU1178,Male,Classroom,Mathematics,79.8,4.0,56.5,7.6,69.3,49.5,1,81.7,High
+STU1179,Other,Classroom,Science,82.4,3.6,41.2,7.8,75.2,22.9,0,82.3,High
+STU1180,Male,Blended,Computer Science,83.0,4.2,47.5,5.7,71.9,33.6,0,80.0,High
+STU1181,Female,Blended,English,62.2,5.8,62.5,10.0,54.2,39.6,1,87.5,High
+STU1182,Other,Blended,Computer Science,88.3,4.1,47.4,7.0,47.5,39.4,3,71.4,Average
+STU1183,Female,Classroom,Social Science,68.4,3.2,29.1,2.4,57.7,28.9,0,54.6,Average
+STU1184,Female,Blended,Science,85.6,5.5,71.2,4.3,74.3,68.8,0,95.0,High
+STU1185,Female,Classroom,English,77.9,4.4,49.5,2.7,76.0,29.0,2,72.4,Average
+STU1186,Female,Blended,English,61.5,6.1,50.5,6.5,49.2,46.7,0,86.3,High
+STU1187,Female,Blended,English,74.2,4.1,49.0,6.2,54.2,41.8,2,66.5,Average
+STU1188,Male,Classroom,Mathematics,82.4,2.0,40.0,5.5,57.6,27.4,2,61.2,Average
+STU1189,Male,Blended,Science,85.4,1.7,45.8,10.0,62.4,30.0,4,57.6,Average
+STU1190,Male,Blended,Mathematics,76.3,6.3,66.6,7.7,49.3,40.6,1,85.7,High
+STU1191,Male,Classroom,Science,96.4,6.4,61.8,8.1,48.5,54.2,1,90.4,High
+STU1192,Male,Blended,Social Science,90.1,3.5,50.7,4.5,56.3,40.2,3,59.0,Average
+STU1193,Male,Blended,English,74.9,3.2,50.4,4.3,68.1,34.4,0,76.6,High
+STU1194,Female,Classroom,English,87.0,6.0,44.5,6.6,51.7,53.5,1,78.2,High
+STU1195,Female,Classroom,English,100.0,2.1,58.9,6.9,65.5,43.4,1,69.5,Average
+STU1196,Male,Blended,Computer Science,100.0,2.5,43.4,2.4,80.8,39.0,1,74.9,Average
+STU1197,Male,Online,English,63.3,4.8,46.7,6.1,50.1,38.8,3,64.0,Average
+STU1198,Male,Blended,English,66.9,3.2,35.9,6.5,64.3,22.0,2,61.8,Average
+STU1199,Female,Blended,Computer Science,95.8,3.8,42.7,6.0,80.3,34.4,0,75.3,High
+STU1200,Male,Blended,Mathematics,65.3,3.6,46.5,4.7,61.6,30.1,2,68.7,Average
+STU1201,Male,Classroom,English,62.1,4.3,40.1,5.3,59.5,37.4,3,69.5,Average
+STU1202,Male,Classroom,English,72.2,5.9,45.7,6.1,82.1,41.8,0,94.7,High
+STU1203,Male,Classroom,Computer Science,83.0,3.9,54.5,6.7,63.0,30.5,2,77.6,High
+STU1204,Male,Online,Social Science,76.8,4.8,74.8,7.8,81.4,32.1,1,92.4,High
+STU1205,Male,Blended,Computer Science,70.2,0.7,58.5,8.9,72.6,20.0,2,59.6,Average
+STU1206,Male,Online,English,69.9,3.7,45.5,5.9,62.5,32.3,0,67.1,Average
+STU1207,Male,Classroom,Mathematics,69.5,2.5,47.9,5.5,73.2,20.0,3,68.8,Average
+STU1208,Male,Classroom,English,67.4,2.0,54.7,7.5,71.2,20.0,1,71.5,Average
+STU1209,Female,Blended,Social Science,100.0,2.5,65.2,7.8,80.3,31.2,3,73.0,Average
+STU1210,Male,Classroom,Social Science,81.6,3.3,43.9,5.5,59.9,23.3,1,67.2,Average
+STU1211,Male,Classroom,Social Science,88.6,5.2,58.3,8.2,67.5,49.0,0,90.9,High
+STU1212,Male,Blended,Mathematics,72.1,1.8,50.9,8.7,66.2,32.3,4,54.6,Average
+STU1213,Female,Blended,Computer Science,75.8,3.8,62.1,9.3,76.2,33.1,2,84.4,High
+STU1214,Male,Blended,Social Science,69.4,3.1,47.9,10.0,53.7,29.4,2,67.1,Average
+STU1215,Male,Classroom,Computer Science,46.2,3.3,46.9,4.6,80.2,31.5,2,59.0,Average
+STU1216,Female,Classroom,Computer Science,61.5,5.3,64.1,6.5,73.1,35.1,1,76.4,High
+STU1217,Female,Classroom,English,56.3,4.6,52.6,6.5,49.9,30.2,2,59.6,Average
+STU1218,Female,Classroom,Computer Science,51.0,5.8,60.6,6.3,82.7,50.9,0,89.1,High
+STU1219,Other,Classroom,Science,63.7,3.6,68.7,5.1,96.0,38.9,2,79.5,High
+STU1220,Male,Classroom,Mathematics,93.9,2.8,47.5,3.2,80.0,37.1,1,64.7,Average
+STU1221,Male,Online,Social Science,77.5,3.5,68.3,6.7,85.6,42.0,3,83.6,High
+STU1222,Female,Classroom,Social Science,93.5,4.2,55.2,4.8,68.1,24.2,1,76.6,High
+STU1223,Male,Classroom,Social Science,82.9,4.1,67.7,6.7,45.4,49.4,2,78.6,High
+STU1224,Male,Classroom,Science,87.4,2.2,29.1,4.8,43.0,32.1,4,45.8,Low
+STU1225,Other,Blended,Mathematics,67.2,3.9,42.6,4.1,70.3,41.9,1,65.0,Average
+STU1226,Female,Classroom,Science,,4.1,53.4,7.0,59.3,42.5,1,79.0,High
+STU1227,Female,Classroom,Social Science,86.7,7.6,59.4,6.8,55.1,57.3,1,89.7,High
+STU1228,Male,Classroom,Computer Science,71.1,6.6,71.6,7.8,66.2,47.6,2,97.7,High
+STU1229,Female,Classroom,Social Science,84.7,2.5,52.3,10.0,75.0,35.8,1,73.5,Average
+STU1230,Male,Blended,Science,84.8,3.4,51.4,7.1,48.1,33.2,2,73.5,Average
+STU1231,Male,Classroom,English,71.4,1.6,53.0,7.6,61.2,31.6,2,59.6,Average
+STU1232,Female,Classroom,Computer Science,64.5,2.9,55.6,4.1,86.6,20.0,2,73.9,Average
+STU1233,Female,Blended,Science,63.8,4.3,34.4,3.7,53.0,30.4,2,53.2,Average
+STU1234,Male,Classroom,Social Science,79.0,5.6,74.1,10.0,78.3,63.6,3,94.1,High
+STU1235,Male,Blended,English,81.9,2.7,52.3,4.5,60.7,25.5,2,64.7,Average
+STU1236,Male,Classroom,Mathematics,68.5,2.8,50.9,4.2,74.1,26.6,1,73.1,Average
+STU1237,Female,Blended,Mathematics,78.3,0.6,50.2,6.4,81.3,20.0,2,69.4,Average
+STU1238,Male,Classroom,Social Science,84.8,3.6,55.9,6.3,76.6,38.9,0,81.7,High
+STU1239,Female,Classroom,Computer Science,85.4,2.2,48.9,4.5,78.8,22.8,0,79.9,High
+STU1240,Male,Classroom,Computer Science,96.6,3.0,49.6,5.8,52.0,33.9,2,64.7,Average
+STU1241,Male,Online,Computer Science,93.3,2.5,59.2,9.2,81.5,40.6,3,85.0,High
+STU1242,Female,Classroom,English,66.0,3.7,36.7,4.7,55.9,26.9,2,54.5,Average
+STU1243,Male,Online,Computer Science,98.2,1.2,36.8,3.4,70.4,31.5,2,57.5,Average
+STU1244,Male,Online,Social Science,71.6,1.6,44.3,8.6,70.4,31.8,3,47.8,Low
+STU1245,Female,Classroom,Mathematics,90.5,7.0,64.8,7.6,73.3,63.5,2,94.4,High
+STU1246,Male,Classroom,Computer Science,78.8,1.9,46.1,5.1,71.4,27.2,3,61.2,Average
+STU1247,Male,Classroom,Science,73.1,2.2,39.2,3.0,56.0,51.4,1,48.0,Low
+STU1248,Male,Online,Science,56.3,6.6,49.3,4.9,49.5,53.8,1,82.0,High
+STU1249,Female,Blended,Science,75.9,8.2,59.7,6.4,78.3,60.2,2,100.0,High
+STU1250,Male,Blended,Social Science,59.3,2.0,59.8,9.1,69.4,20.0,2,64.4,Average
+STU1251,Female,Classroom,Mathematics,89.6,3.2,51.0,4.2,81.9,33.7,1,68.7,Average
+STU1252,Male,Blended,English,96.2,4.3,50.7,6.3,66.4,53.4,2,77.2,High
+STU1253,Male,Classroom,Computer Science,68.4,6.4,54.7,8.0,48.7,62.0,3,77.9,High
+STU1254,Female,Classroom,Mathematics,81.6,2.3,31.8,1.3,79.6,38.7,1,57.9,Average
+STU1255,Female,Classroom,Computer Science,69.3,3.4,45.3,8.8,62.2,40.3,2,72.6,Average
+STU1256,Male,Classroom,Social Science,70.5,5.0,57.1,3.9,71.4,29.4,2,73.5,Average
+STU1257,Female,Online,Mathematics,87.3,4.5,39.5,7.2,58.6,45.5,0,89.7,High
+STU1258,Male,Blended,Mathematics,77.5,3.2,65.7,7.0,88.4,23.7,1,77.6,High
+STU1259,Male,Classroom,Social Science,98.9,3.6,63.2,8.9,55.6,28.3,1,89.5,High
+STU1260,Male,Classroom,Mathematics,72.2,1.7,43.4,7.7,62.6,27.5,1,56.4,Average
+STU1261,Female,Blended,Mathematics,90.0,3.4,46.3,1.3,68.4,38.2,1,66.2,Average
+STU1262,Female,Blended,Social Science,79.2,3.4,50.5,4.8,52.8,40.9,3,69.7,Average
+STU1263,Female,Classroom,Social Science,87.5,4.1,51.5,6.8,71.3,43.9,1,88.3,High
+STU1264,Male,Classroom,Computer Science,72.6,3.0,61.2,6.1,88.0,35.2,0,77.7,High
+STU1265,Other,Blended,English,77.4,4.5,47.1,7.6,60.6,32.4,2,78.9,High
+STU1266,Male,Online,Social Science,76.6,5.3,55.2,8.2,72.1,43.7,0,94.0,High
+STU1267,Female,Blended,Computer Science,68.0,4.0,34.1,7.8,31.3,24.3,3,54.7,Average
+STU1268,Female,Classroom,Computer Science,85.9,4.3,54.5,6.0,66.5,24.1,3,77.5,High
+STU1269,Female,Blended,Social Science,85.8,3.9,52.6,2.4,62.9,42.0,2,78.7,High
+STU1270,Other,Classroom,Computer Science,85.1,3.8,45.3,5.5,56.4,31.0,2,70.7,Average
+STU1271,Female,Online,English,96.4,2.7,48.1,7.4,81.1,41.6,2,79.8,High
+STU1272,Female,Classroom,Science,95.4,4.3,41.4,4.1,62.8,49.5,0,80.5,High
+STU1273,Male,Classroom,English,73.5,3.7,54.1,7.9,64.7,30.5,2,65.2,Average
+STU1274,Male,Classroom,English,82.5,6.9,72.6,8.5,62.1,58.5,5,95.6,High
+STU1275,Female,Classroom,Science,70.5,6.2,49.7,6.8,42.1,41.6,2,71.6,Average
+STU1276,Male,Classroom,English,78.3,4.4,36.1,1.0,52.3,21.7,2,53.8,Average
+STU1277,Female,Blended,Computer Science,70.8,2.7,53.1,3.7,79.5,28.9,2,77.7,High
+STU1278,Female,Blended,Science,97.4,2.1,43.6,10.0,39.6,29.4,5,56.2,Average
+STU1279,Female,Blended,Mathematics,82.4,5.6,47.4,5.3,57.0,41.9,3,71.2,Average
+STU1280,Female,Classroom,Science,75.4,4.2,36.4,2.1,61.8,51.4,0,75.0,Average
+STU1281,Other,Classroom,Science,92.3,4.5,76.1,9.2,89.7,31.6,1,92.6,High
+STU1282,Male,Classroom,Computer Science,52.0,1.2,27.8,6.5,77.0,21.6,5,42.7,Low
+STU1283,Male,Classroom,English,53.8,5.2,57.8,8.9,59.8,32.2,2,87.6,High
+STU1284,Female,Classroom,Science,87.6,4.5,57.2,7.1,84.0,49.0,0,91.6,High
+STU1285,Male,Online,Computer Science,78.7,2.1,42.6,7.5,57.4,31.0,3,50.2,Average
+STU1286,Other,Online,Mathematics,81.0,3.1,67.4,7.3,80.1,36.7,0,87.1,High
+STU1287,Female,Classroom,Mathematics,62.1,4.2,41.0,8.0,49.3,28.6,3,62.9,Average
+STU1288,Other,Blended,Social Science,77.7,3.9,56.4,10.0,81.0,32.3,0,98.5,High
+STU1289,Male,Blended,English,100.0,3.4,53.0,8.6,61.7,46.5,2,75.0,Average
+STU1290,Male,Classroom,Computer Science,87.9,3.6,44.8,3.0,53.6,49.7,1,72.6,Average
+STU1291,Female,Blended,Social Science,80.0,3.4,47.7,7.5,64.2,39.1,1,85.2,High
+STU1292,Male,Classroom,Social Science,72.7,4.0,44.8,9.0,70.6,30.6,3,69.9,Average
+STU1293,Male,Classroom,Mathematics,73.3,6.0,50.9,9.1,60.6,50.5,1,89.1,High
+STU1294,Other,Online,Computer Science,52.4,0.5,50.7,5.6,74.2,34.1,1,57.4,Average
+STU1295,Male,Blended,Computer Science,81.1,3.4,52.2,9.1,59.4,37.2,0,74.3,Average
+STU1296,Female,Classroom,Mathematics,88.1,4.1,61.8,8.5,75.1,52.2,0,92.5,High
+STU1297,Male,Classroom,Social Science,59.1,4.2,55.1,10.0,72.7,30.9,0,84.0,High
+STU1298,Male,Online,Science,70.1,3.2,41.4,4.8,66.2,30.9,2,61.8,Average
+STU1299,Male,Classroom,Social Science,64.1,1.2,51.5,5.4,61.3,25.0,4,49.3,Low
+STU1300,Female,Online,Computer Science,66.4,4.3,49.0,5.8,69.0,39.5,1,75.8,High
+STU1301,Female,Online,English,78.6,6.4,54.5,5.4,74.2,42.7,3,86.8,High
+STU1302,Female,Classroom,Mathematics,53.0,1.5,57.0,4.5,93.8,20.0,0,62.5,Average
+STU1303,Female,Blended,Social Science,85.4,,45.6,1.0,79.2,49.3,1,73.5,Average
+STU1304,Other,Blended,English,87.0,3.3,49.8,5.5,79.7,44.5,0,78.4,High
+STU1305,Female,Blended,Mathematics,75.0,3.7,62.5,7.3,98.0,47.8,2,86.3,High
+STU1306,Male,Classroom,Mathematics,48.2,2.2,44.6,5.4,73.7,36.9,4,52.2,Average
+STU1307,Male,Classroom,Computer Science,66.0,3.3,57.7,10.0,73.3,34.5,0,84.8,High
+STU1308,Male,Classroom,Mathematics,92.8,5.8,74.9,6.5,76.2,46.2,0,88.4,High
+STU1309,Female,Blended,English,44.7,4.7,50.9,9.3,53.9,46.9,3,68.3,Average
+STU1310,Male,Blended,Computer Science,73.8,6.4,38.3,7.1,61.2,54.5,0,86.7,High
+STU1311,Male,Blended,Science,63.8,5.6,55.8,8.3,60.4,35.6,2,77.4,High
+STU1312,Male,Blended,English,87.7,4.5,57.7,7.1,75.4,33.4,3,90.6,High
+STU1313,Female,Classroom,Science,69.9,6.4,59.7,9.5,64.7,53.4,1,96.1,High
+STU1314,Male,Classroom,Social Science,82.8,4.5,55.5,6.6,68.8,39.1,2,80.6,High
+STU1315,Female,Blended,Social Science,84.8,5.0,60.9,7.6,81.1,44.1,3,84.7,High
+STU1316,Male,Blended,Science,100.0,3.4,57.3,7.3,78.2,47.0,4,77.4,High
+STU1317,Female,Blended,English,75.6,3.9,53.5,5.9,64.9,42.1,2,65.7,Average
+STU1318,Female,Classroom,English,82.5,2.8,43.7,7.4,58.3,43.0,1,68.1,Average
+STU1319,Male,Classroom,Social Science,60.2,5.3,55.8,10.0,81.8,26.8,0,87.4,High
+STU1320,Female,Online,Science,92.3,2.0,72.5,5.9,77.1,31.8,3,69.5,Average
+STU1321,Male,Classroom,English,68.9,5.0,41.5,7.4,46.1,46.5,0,61.4,Average
+STU1322,Male,Classroom,Social Science,71.3,3.5,52.9,9.3,62.9,22.8,1,69.3,Average
+STU1323,Female,Blended,Mathematics,77.7,5.6,48.8,9.0,69.2,41.0,1,98.2,High
+STU1324,Female,Blended,English,59.2,4.9,55.5,6.5,77.1,31.8,0,88.9,High
+STU1325,Female,Online,Mathematics,80.7,6.5,47.0,1.3,78.8,48.0,1,91.7,High
+STU1326,Male,Online,Computer Science,89.6,4.9,54.6,7.6,70.7,57.5,4,90.7,High
+STU1327,Male,Blended,Science,81.5,1.4,48.8,1.6,74.6,38.9,2,59.3,Average
+STU1328,Female,Classroom,Social Science,58.9,3.7,56.9,9.7,67.8,27.5,1,75.9,High
+STU1329,Male,Classroom,Science,76.5,2.0,48.3,6.9,58.2,31.6,3,53.1,Average
+STU1330,Female,Online,Mathematics,86.9,3.0,40.0,8.7,63.6,39.6,2,78.5,High
+STU1331,Male,Classroom,Social Science,55.5,6.1,63.2,4.5,67.2,45.7,3,79.7,High
+STU1332,Male,Online,Social Science,65.1,4.8,37.9,3.1,66.5,40.2,2,82.1,High
+STU1333,Female,Blended,Computer Science,88.5,2.8,52.9,7.1,42.5,35.7,2,62.2,Average
+STU1334,Male,Classroom,Computer Science,81.2,2.3,53.2,6.4,61.8,42.7,0,82.2,High
+STU1335,Female,Classroom,Science,82.9,3.8,54.3,5.4,67.7,45.7,0,77.9,High
+STU1336,Male,Blended,Computer Science,100.0,2.0,42.6,6.7,63.3,22.7,0,76.2,High
+STU1337,Male,Classroom,Mathematics,83.6,2.8,54.6,10.0,63.8,40.4,2,86.1,High
+STU1338,Other,Classroom,Mathematics,85.9,4.3,54.6,8.3,73.3,48.1,0,82.4,High
+STU1339,Male,Blended,Social Science,100.0,5.5,56.1,8.8,53.0,52.6,3,83.6,High
+STU1340,Male,Classroom,Computer Science,75.4,4.7,46.2,8.4,45.8,50.4,2,69.1,Average
+STU1341,Female,Classroom,Science,68.4,0.5,31.5,9.8,62.5,21.2,2,46.4,Low
+STU1342,Male,Blended,Mathematics,83.1,,63.2,6.1,76.9,40.9,0,90.3,High
+STU1343,Female,Blended,Social Science,83.3,3.9,52.1,2.0,88.9,36.5,2,71.9,Average
+STU1344,Male,Classroom,Mathematics,71.7,4.4,51.1,6.1,77.2,21.9,0,80.9,High
+STU1345,Female,Online,Science,65.6,6.2,46.8,8.3,47.9,46.4,0,89.2,High
+STU1346,Other,Online,Mathematics,100.0,0.7,45.0,4.4,64.0,20.0,4,38.2,Low
+STU1347,Other,Classroom,Mathematics,81.9,2.9,43.8,6.1,70.3,22.9,2,74.5,Average
+STU1348,Female,Classroom,Science,69.2,4.7,34.6,5.0,69.3,49.9,1,71.9,Average
+STU1349,Male,Blended,Social Science,89.0,1.4,57.3,9.8,74.0,32.1,3,73.3,Average
+STU1350,Male,Classroom,Science,76.7,6.0,57.6,8.1,55.1,47.7,1,92.5,High
+STU1351,Female,Blended,English,75.0,4.4,52.8,7.9,67.8,34.7,2,87.0,High
+STU1352,Male,Blended,Computer Science,84.7,5.1,50.5,7.9,72.5,46.9,0,89.5,High
+STU1353,Male,Classroom,English,62.5,2.9,51.4,6.4,77.7,37.1,4,52.5,Average
+STU1354,Male,Blended,Computer Science,82.2,5.0,40.8,6.9,56.5,36.8,1,78.2,High
+STU1355,Female,Blended,Computer Science,100.0,5.4,44.4,3.9,62.5,46.9,3,77.5,High
+STU1356,Male,Online,Computer Science,83.6,4.1,27.6,1.7,31.9,43.6,2,46.5,Low
+STU1357,Female,Classroom,Computer Science,73.5,4.2,54.7,6.8,58.9,21.9,3,70.9,Average
+STU1358,Male,Online,Computer Science,71.9,4.2,47.2,7.2,60.2,37.1,3,68.6,Average
+STU1359,Female,Classroom,Computer Science,73.1,2.5,43.7,9.2,53.7,26.8,4,52.1,Average
+STU1360,Female,Blended,Computer Science,75.0,3.6,69.7,10.0,69.2,35.3,1,89.3,High
+STU1361,Female,Online,Mathematics,73.5,3.6,57.3,10.0,66.3,32.0,3,73.1,Average
+STU1362,Female,Classroom,Computer Science,89.0,4.4,42.3,4.3,37.6,41.1,4,57.4,Average
+STU1363,Male,Classroom,Computer Science,57.2,5.3,49.0,5.7,69.8,55.0,1,77.8,High
+STU1364,Male,Blended,Science,88.3,2.2,41.9,7.6,54.9,28.1,2,70.1,Average
+STU1365,Male,Blended,Social Science,73.4,3.6,42.1,10.0,73.3,38.6,1,79.9,High
+STU1366,Male,Classroom,Science,82.5,6.0,62.2,9.8,50.3,65.8,1,94.7,High
+STU1367,Female,Classroom,Science,64.5,2.7,53.8,9.0,67.4,25.1,4,62.7,Average
+STU1368,Female,Blended,Social Science,93.9,2.6,46.3,5.6,63.3,47.1,1,72.2,Average
+STU1369,Male,Classroom,Science,92.9,4.1,50.9,4.6,70.9,39.6,0,87.7,High
+STU1370,Male,Blended,Science,89.5,5.1,63.4,8.2,68.6,59.8,3,92.2,High
+STU1371,Male,Classroom,Science,59.8,3.8,33.1,4.1,63.7,37.9,2,65.3,Average
+STU1372,Female,Classroom,Social Science,87.9,5.8,44.6,6.0,47.0,50.2,4,77.5,High
+STU1373,Male,Blended,English,82.9,5.1,39.3,6.2,47.8,42.9,1,66.6,Average
+STU1374,Female,Classroom,Computer Science,58.7,5.1,66.4,10.0,59.4,35.9,2,79.2,High
+STU1375,Male,Online,Computer Science,77.7,4.6,57.6,5.7,66.9,40.6,1,79.1,High
+STU1376,Female,Blended,Computer Science,82.4,7.3,32.9,1.1,59.1,59.0,1,75.5,High
+STU1377,Male,Classroom,Social Science,84.7,3.5,45.0,7.6,75.1,36.4,0,73.8,Average
+STU1378,Female,Classroom,Computer Science,80.1,0.8,40.1,5.0,63.4,20.0,3,37.3,Low
+STU1379,Male,Classroom,Science,81.5,6.2,49.1,6.6,54.5,47.0,2,75.2,High
+STU1380,Female,Blended,Social Science,95.7,3.1,40.7,6.3,63.4,43.9,2,68.2,Average
+STU1381,Male,Blended,English,92.7,4.0,66.8,5.9,69.9,49.2,1,83.2,High
+STU1382,Female,Blended,Mathematics,43.6,5.8,57.4,8.2,71.2,35.5,0,83.1,High
+STU1383,Male,Classroom,Science,74.2,1.4,52.0,3.1,91.4,20.0,2,60.6,Average
+STU1384,Female,Classroom,Computer Science,76.0,1.9,37.0,5.4,58.3,29.0,1,54.7,Average
+STU1385,Female,Classroom,Mathematics,57.0,1.4,50.1,8.0,66.0,33.5,3,64.3,Average
+STU1386,Male,Blended,English,79.1,2.6,45.7,5.1,72.5,39.0,4,60.4,Average
+STU1387,Female,Classroom,Science,93.0,4.5,46.8,3.0,66.7,30.5,3,73.0,Average
+STU1388,Female,Classroom,English,65.0,4.6,55.3,8.0,60.5,36.5,0,82.7,High
+STU1389,Male,Classroom,Mathematics,82.0,4.2,37.6,9.0,46.9,32.9,1,65.2,Average
+STU1390,Male,Classroom,Social Science,67.0,1.7,53.6,6.4,60.4,21.5,3,55.4,Average
+STU1391,Male,Blended,Science,69.9,0.5,32.6,2.2,53.0,29.0,3,29.2,Low
+STU1392,Female,Blended,Mathematics,95.7,3.9,56.7,8.1,44.6,29.3,1,75.4,High
+STU1393,Male,Online,English,71.5,3.1,32.0,2.8,56.7,20.0,2,48.7,Low
+STU1394,Male,Classroom,English,83.5,4.5,42.9,7.2,53.4,34.4,2,75.3,High
+STU1395,Female,Blended,Computer Science,55.5,4.9,42.1,4.5,74.6,38.8,3,61.6,Average
+STU1396,Male,Classroom,English,100.0,4.0,54.7,3.9,74.8,45.0,1,79.6,High
+STU1397,Female,Blended,Mathematics,85.2,4.9,49.2,5.5,55.2,46.3,3,77.0,High
+STU1398,Male,Blended,Social Science,75.8,4.1,46.4,6.1,63.6,46.8,0,82.9,High
+STU1399,Male,Classroom,English,84.9,4.6,35.8,5.1,42.8,26.7,1,62.2,Average
+STU1400,Male,Blended,Mathematics,61.1,2.7,37.4,7.8,60.6,38.1,3,60.8,Average
+STU1401,Male,Classroom,Computer Science,92.2,3.5,52.0,5.5,72.2,34.5,3,73.0,Average
+STU1402,Female,Classroom,Computer Science,74.1,4.1,54.8,8.7,77.7,44.0,0,96.5,High
+STU1403,Female,Classroom,Computer Science,75.6,5.0,46.2,7.1,57.7,31.7,2,67.2,Average
+STU1404,Male,Classroom,English,72.1,3.2,62.2,5.0,80.7,31.5,0,71.7,Average
+STU1405,Male,Online,Science,71.0,4.6,41.5,4.6,47.3,39.9,2,82.2,High
+STU1406,Male,Blended,English,86.3,3.4,48.8,2.9,50.8,43.2,3,58.0,Average
+STU1407,Female,Blended,Mathematics,81.1,3.6,51.4,7.1,76.2,23.6,1,66.4,Average
+STU1408,Male,Online,Science,85.8,5.0,62.7,5.7,88.7,43.8,0,90.0,High
+STU1409,Female,Blended,Social Science,77.9,0.8,38.4,1.3,73.4,20.0,1,31.8,Low
+STU1410,Female,Classroom,Computer Science,84.2,1.9,33.5,5.3,66.5,31.1,1,61.3,Average
+STU1411,Male,Classroom,Science,73.0,1.6,42.5,4.5,38.5,29.5,5,45.5,Low
+STU1412,Male,Classroom,Science,100.0,0.5,41.4,10.0,40.7,35.8,3,49.3,Low
+STU1413,Male,Online,Computer Science,59.2,2.8,46.6,2.8,68.7,21.7,1,55.9,Average
+STU1414,Other,Online,Science,93.1,4.9,43.6,3.3,62.3,50.5,1,81.8,High
+STU1415,Female,Blended,Mathematics,94.4,3.4,49.4,8.9,52.6,49.2,0,69.1,Average
+STU1416,Male,Classroom,Mathematics,67.8,4.1,49.1,9.5,67.9,24.3,0,73.7,Average
+STU1417,Male,Classroom,Computer Science,100.0,5.4,63.9,4.9,68.5,52.5,3,83.7,High
+STU1418,Male,Online,Computer Science,89.9,5.8,61.1,5.1,79.3,55.4,1,88.2,High
+STU1419,Female,Classroom,Mathematics,89.7,3.7,57.3,7.9,68.8,36.5,4,73.1,Average
+STU1420,Female,Blended,Mathematics,78.3,5.8,62.8,1.4,83.0,34.3,0,78.3,High
+STU1421,Female,Classroom,Computer Science,75.4,3.9,52.9,2.4,67.1,42.0,1,70.9,Average
+STU1422,Female,Classroom,English,75.5,2.5,51.8,5.9,65.5,20.0,3,60.7,Average
+STU1423,Female,Blended,Computer Science,82.7,2.9,49.5,9.9,80.8,33.0,0,86.7,High
+STU1424,Male,Online,Mathematics,94.8,1.6,37.3,5.5,54.3,27.4,3,54.5,Average
+STU1425,Male,Blended,Computer Science,80.2,2.5,52.4,6.7,98.0,35.9,1,79.9,High
+STU1426,Female,Classroom,Social Science,67.1,3.3,59.0,9.0,71.9,27.9,3,65.0,Average
+STU1427,Male,Classroom,Computer Science,87.9,5.0,62.9,10.0,72.0,40.4,2,94.9,High
+STU1428,Male,Online,Mathematics,89.1,6.4,48.7,5.2,73.8,51.3,0,91.1,High
+STU1429,Male,Blended,Computer Science,85.9,1.7,54.5,6.5,91.4,35.4,3,68.6,Average
+STU1430,Male,Classroom,Science,86.9,4.4,51.7,10.0,77.3,60.9,1,98.1,High
+STU1431,Male,Blended,Mathematics,74.7,2.2,34.4,3.2,46.1,20.0,1,45.5,Low
+STU1432,Female,Classroom,Science,66.9,4.5,49.3,8.8,85.2,41.5,1,94.8,High
+STU1433,Female,Classroom,Social Science,67.6,3.6,48.0,4.3,62.6,23.6,1,74.4,Average
+STU1434,Male,Online,Science,58.4,1.1,46.0,6.7,68.4,27.3,4,55.3,Average
+STU1435,Male,Blended,Social Science,80.8,5.2,61.1,6.0,50.4,36.0,2,71.7,Average
+STU1436,Male,Classroom,English,77.0,2.9,54.0,4.4,73.8,25.1,2,53.3,Average
+STU1437,Other,Classroom,English,72.7,3.0,39.4,4.3,58.5,25.5,3,62.7,Average
+STU1438,Female,Online,Mathematics,42.5,2.2,50.2,7.1,68.3,21.6,3,58.0,Average
+STU1439,Female,Blended,Computer Science,63.0,2.8,39.2,8.7,63.3,32.4,3,59.1,Average
+STU1440,Male,Blended,Mathematics,91.5,4.4,55.5,6.2,92.0,45.6,2,94.3,High
+STU1441,Female,Classroom,English,70.0,3.5,60.9,6.7,92.8,33.5,2,75.1,High
+STU1442,Male,Online,Science,82.3,4.3,39.5,7.8,67.6,29.5,2,73.0,Average
+STU1443,Male,Online,Science,61.3,4.3,46.9,,67.8,40.8,3,70.3,Average
+STU1444,Male,Blended,English,95.3,5.8,50.9,8.1,62.1,49.7,1,84.5,High
+STU1445,Female,Classroom,Mathematics,76.3,3.3,58.0,8.3,81.4,43.6,1,81.8,High
+STU1446,Male,Blended,Science,81.5,1.6,42.7,10.0,62.7,21.9,4,66.7,Average
+STU1447,Female,Blended,Social Science,100.0,5.4,56.9,5.7,61.5,35.0,3,82.3,High
+STU1448,Male,Blended,Mathematics,96.2,3.3,55.1,5.5,79.7,36.3,1,86.2,High
+STU1449,Female,Online,Science,74.3,5.5,64.0,8.2,60.0,55.2,1,96.3,High
+STU1450,Male,Blended,Science,70.9,4.4,53.9,8.3,66.5,40.1,3,77.2,High
+STU1451,Male,Classroom,Science,74.1,3.6,35.7,5.3,46.4,32.4,3,43.6,Low
+STU1452,Female,Classroom,Computer Science,84.1,4.3,53.0,5.6,76.2,32.6,2,71.4,Average
+STU1453,Male,Blended,Science,76.7,6.7,58.4,7.7,92.2,65.4,0,100.0,High
+STU1454,Female,Classroom,English,73.3,6.9,60.6,4.7,76.4,41.9,1,83.3,High
+STU1455,Female,Classroom,Computer Science,95.6,3.9,62.7,5.6,86.0,33.7,1,83.2,High
+STU1456,Male,Blended,Science,76.6,4.0,65.0,6.7,56.0,41.9,1,79.8,High
+STU1457,Male,Classroom,Social Science,100.0,5.4,57.1,8.7,70.1,34.6,1,100.0,High
+STU1458,Female,Blended,Social Science,79.1,2.5,40.1,5.2,54.7,39.7,3,53.5,Average
+STU1459,Male,Classroom,Mathematics,99.4,4.3,43.4,2.4,64.0,45.6,1,68.7,Average
+STU1460,Male,Classroom,Science,82.3,3.8,50.0,2.3,77.0,42.0,2,69.1,Average
+STU1461,Male,Classroom,Mathematics,89.6,4.3,52.3,3.7,68.3,43.8,3,74.0,Average
+STU1462,Female,Blended,Mathematics,69.3,2.5,36.0,3.6,48.6,25.7,4,45.4,Low
+STU1463,Female,Blended,English,67.8,1.4,45.6,6.2,49.9,20.0,2,57.8,Average
+STU1464,Male,Classroom,English,83.5,0.7,30.2,3.9,49.0,20.0,4,33.2,Low
+STU1465,Female,Classroom,English,89.9,2.1,55.5,5.0,73.4,21.5,2,66.2,Average
+STU1466,Female,Classroom,Science,78.5,3.1,60.1,4.8,93.8,36.0,0,83.7,High
+STU1467,Male,Blended,Science,62.6,,52.8,5.5,84.7,37.3,2,70.1,Average
+STU1468,Female,Online,Social Science,61.7,6.7,48.9,9.4,42.4,61.2,2,90.7,High
+STU1469,Male,Blended,Social Science,60.9,5.5,78.2,8.0,85.5,45.2,4,90.7,High
+STU1470,Female,Classroom,Mathematics,56.8,2.4,43.8,6.5,79.2,32.7,3,66.7,Average
+STU1471,Male,Blended,Computer Science,79.3,4.3,45.8,5.5,46.9,36.3,3,66.5,Average
+STU1472,Other,Classroom,English,91.5,3.2,43.1,5.5,63.1,31.4,2,69.6,Average
+STU1473,Other,Classroom,Computer Science,77.8,3.4,68.5,7.2,81.2,38.3,1,79.3,High
+STU1474,Male,Classroom,English,50.9,4.1,58.9,7.8,74.2,30.3,0,76.7,High
+STU1475,Male,Classroom,Social Science,75.7,4.7,39.0,4.5,50.0,41.7,0,78.7,High
+STU1476,Female,Classroom,Mathematics,76.0,3.3,56.1,6.6,74.9,24.9,0,81.2,High
+STU1477,Other,Blended,Science,100.0,5.4,42.4,2.0,39.2,38.9,2,61.2,Average
+STU1478,Male,Classroom,Social Science,60.5,2.1,41.1,7.0,64.1,29.9,0,64.5,Average
+STU1479,Male,Blended,Mathematics,73.3,3.8,63.4,8.2,81.8,43.4,0,73.7,Average
+STU1480,Female,Online,Mathematics,98.5,7.7,63.8,5.9,67.2,51.3,0,100.0,High
+STU1481,Female,Blended,Computer Science,83.4,4.1,56.8,10.0,60.5,46.0,1,90.8,High
+STU1482,Male,Classroom,Computer Science,84.8,5.9,57.3,4.6,78.6,43.0,0,90.8,High
+STU1483,Male,Blended,Computer Science,79.4,3.9,59.6,7.0,79.7,37.6,1,83.8,High
+STU1484,Female,Classroom,Computer Science,82.0,4.7,60.8,6.4,84.0,52.7,3,66.7,Average
+STU1485,Female,Classroom,Computer Science,87.3,3.7,55.9,6.3,78.4,43.9,2,76.8,High
+STU1486,Male,Classroom,Mathematics,68.3,3.5,49.2,6.2,81.1,39.5,1,78.2,High
+STU1487,Female,Blended,Computer Science,88.5,2.6,65.2,6.7,76.5,47.7,1,81.9,High
+STU1488,Other,Blended,Computer Science,61.5,4.4,47.0,8.4,70.5,31.9,1,84.9,High
+STU1489,Female,Blended,Social Science,81.9,2.5,56.5,9.5,68.2,24.2,1,74.5,Average
+STU1490,Female,Blended,Science,80.1,4.8,50.0,6.5,63.9,35.9,0,81.0,High
+STU1491,Female,Blended,Mathematics,70.6,5.4,63.1,8.3,51.2,42.0,3,72.5,Average
+STU1492,Male,Blended,Computer Science,77.7,4.3,39.1,5.0,54.6,20.0,1,66.3,Average
+STU1493,Male,Online,Science,70.5,3.4,45.2,8.2,63.3,32.0,0,67.1,Average
+STU1494,Female,Classroom,Mathematics,65.1,4.5,42.7,4.8,70.1,32.2,1,61.3,Average
+STU1495,Female,Online,Social Science,73.8,3.3,61.8,8.9,85.7,40.7,1,78.7,High
+STU1496,Female,Online,English,64.8,5.2,47.9,10.0,66.5,45.5,0,98.1,High
+STU1497,Female,Classroom,Science,81.9,1.1,46.2,6.2,80.0,20.0,2,59.0,Average
+STU1498,Male,Classroom,Mathematics,64.2,3.3,30.8,1.7,81.0,33.6,2,60.1,Average
+STU1499,Female,Classroom,Mathematics,86.5,0.8,44.2,5.3,64.0,28.1,3,49.1,Low
+STU1500,Male,Blended,Computer Science,63.8,1.6,47.6,9.2,74.7,20.0,5,47.2,Low
+STU1501,Female,Classroom,English,71.2,5.8,44.9,7.7,63.8,42.0,3,86.4,High
+STU1502,Female,Classroom,Mathematics,70.5,5.1,67.4,7.0,84.2,24.1,2,74.4,Average
+STU1503,Female,Blended,Science,93.9,2.7,47.5,8.7,75.3,26.1,5,65.1,Average
+STU1504,Female,Online,Mathematics,82.0,1.5,48.2,7.6,51.5,20.3,3,55.6,Average
+STU1505,Female,Blended,Mathematics,75.5,0.5,43.2,9.2,69.1,21.3,2,59.9,Average
+STU1506,Female,Blended,Science,84.0,3.0,71.6,8.5,88.4,26.7,2,79.6,High
+STU1507,Female,Classroom,English,52.7,7.4,,9.8,64.6,47.5,0,90.8,High
+STU1508,Other,Classroom,Mathematics,77.5,4.5,48.5,7.3,72.8,30.1,1,75.8,High
+STU1509,Female,Blended,Science,100.0,3.0,50.8,8.5,74.1,38.4,1,76.2,High
+STU1510,Female,Classroom,English,79.6,4.5,51.2,5.8,53.5,43.1,2,68.2,Average
+STU1511,Female,Blended,English,78.8,1.5,44.4,5.2,73.6,27.3,1,66.8,Average
+STU1512,Male,Online,Mathematics,84.6,3.4,48.5,10.0,48.9,37.1,1,67.8,Average
+STU1513,Male,Blended,Mathematics,88.7,3.9,59.3,7.0,58.9,26.9,2,77.3,High
+STU1514,Male,Blended,Mathematics,54.0,3.7,50.1,8.3,81.0,27.3,1,78.1,High
+STU1515,Male,Blended,Science,57.8,5.0,53.8,,71.6,35.5,0,88.6,High
+STU1516,Male,Blended,Computer Science,80.5,4.3,55.7,5.2,63.0,35.5,0,77.6,High
+STU1517,Female,Classroom,Mathematics,69.4,4.8,59.8,6.5,72.8,40.4,0,90.4,High
+STU1518,Male,Classroom,Computer Science,93.7,2.8,53.9,9.7,66.2,46.9,1,79.2,High
+STU1519,Male,Classroom,Computer Science,74.2,5.1,53.3,7.7,67.2,49.5,2,86.3,High
+STU1520,Female,Blended,Mathematics,54.8,6.2,38.7,2.7,75.5,34.5,1,67.6,Average
+STU1521,Male,Classroom,Mathematics,62.8,2.3,34.5,6.0,57.5,31.5,3,37.7,Low
+STU1522,Female,Classroom,Mathematics,45.0,2.5,51.7,10.0,67.5,30.6,3,67.6,Average
+STU1523,Female,Blended,Mathematics,75.2,5.8,51.9,6.0,62.9,39.1,2,84.1,High
+STU1524,Male,Classroom,English,75.7,3.5,37.4,2.5,46.4,39.3,3,56.4,Average
+STU1525,Female,Blended,Mathematics,72.9,5.9,63.3,10.0,55.0,46.4,2,86.9,High
+STU1526,Male,Classroom,Computer Science,90.9,3.1,52.1,8.0,87.4,24.8,2,88.6,High
+STU1527,Other,Classroom,English,92.4,6.0,57.3,6.3,72.0,53.4,2,88.2,High
+STU1528,Male,Classroom,Computer Science,76.0,4.0,45.2,5.7,49.8,38.2,2,69.1,Average
+STU1529,Female,Classroom,Computer Science,52.4,4.2,40.3,8.9,47.0,33.0,4,66.2,Average
+STU1530,Male,Online,English,85.4,6.1,64.7,5.3,65.5,48.5,0,100.0,High
+STU1531,Male,Online,Social Science,84.7,3.3,67.8,9.0,87.3,30.3,1,85.7,High
+STU1532,Female,Blended,Social Science,81.7,2.4,51.2,7.7,64.6,35.4,2,64.5,Average
+STU1533,Female,Blended,Science,89.8,3.1,70.2,7.0,84.0,35.0,3,70.9,Average
+STU1534,Male,Blended,Mathematics,64.0,4.5,42.3,6.8,71.6,38.7,3,81.7,High
+STU1535,Male,Online,Science,100.0,1.5,49.9,6.1,73.1,31.2,0,72.4,Average
+STU1536,Female,Classroom,Science,66.5,4.8,51.6,8.8,49.6,30.9,4,73.5,Average
+STU1537,Female,Classroom,English,87.0,3.0,45.2,4.6,79.2,25.8,0,91.5,High
+STU1538,Other,Blended,Science,57.8,5.5,47.5,2.9,62.6,21.8,0,75.2,High
+STU1539,Female,Online,English,66.8,0.5,40.5,7.9,78.2,23.0,2,49.0,Low
+STU1540,Female,Classroom,Computer Science,96.2,2.6,53.7,7.9,56.4,24.7,2,68.3,Average
+STU1541,Male,Classroom,Science,74.9,1.3,54.8,7.6,69.3,24.7,0,61.1,Average
+STU1542,Female,Classroom,English,88.1,2.6,54.3,7.4,71.6,35.3,2,70.0,Average
+STU1543,Female,Classroom,Science,80.8,4.2,37.4,5.8,65.0,43.1,2,68.9,Average
+STU1544,Male,Blended,Computer Science,76.7,3.5,47.8,8.2,72.3,26.0,3,68.9,Average
+STU1545,Male,Classroom,Computer Science,94.4,3.4,54.6,6.4,63.5,36.8,1,67.7,Average
+STU1546,Male,Online,Mathematics,75.2,3.6,45.6,5.4,58.6,47.4,2,76.9,High
+STU1547,Female,Blended,Computer Science,56.6,4.1,36.4,5.8,87.9,47.3,1,77.7,High
+STU1548,Male,Classroom,Mathematics,68.4,2.3,65.2,10.0,80.6,36.6,4,72.1,Average
+STU1549,Male,Blended,Computer Science,84.6,4.9,45.8,2.7,57.1,43.6,0,78.6,High
+STU1550,Male,Blended,English,82.7,4.8,52.2,7.6,74.4,34.6,0,90.5,High
+STU1551,Male,Classroom,Science,59.2,4.4,,2.8,57.3,39.7,2,65.2,Average
+STU1552,Male,Classroom,Computer Science,69.3,4.6,41.2,6.3,51.6,37.5,0,77.7,High
+STU1553,Male,Blended,Social Science,71.0,4.2,49.5,5.5,80.4,41.3,1,79.7,High
+STU1554,Male,Classroom,Computer Science,73.6,6.9,45.0,1.9,44.8,43.4,1,79.0,High
+STU1555,Female,Classroom,English,61.5,3.7,66.6,7.4,79.0,31.7,0,87.2,High
+STU1556,Other,Classroom,Computer Science,70.5,3.3,58.0,5.7,63.7,33.5,2,69.8,Average
+STU1557,Male,Classroom,Science,69.3,2.7,42.0,1.9,64.2,28.7,3,50.8,Average
+STU1558,Female,Blended,Computer Science,87.3,2.3,56.5,8.3,72.3,35.1,1,84.5,High
+STU1559,Female,Classroom,Social Science,87.7,1.9,60.9,9.7,74.6,25.6,1,74.1,Average
+STU1560,Male,Blended,Mathematics,76.3,2.5,40.1,9.8,56.3,20.2,2,67.5,Average
+STU1561,Female,Classroom,Science,73.3,3.7,59.1,7.3,76.3,48.3,1,84.0,High
+STU1562,Male,Blended,Science,79.7,4.3,47.8,6.6,68.5,59.1,0,79.0,High
+STU1563,Male,Classroom,Mathematics,68.2,3.9,50.8,9.4,50.7,40.0,3,66.2,Average
+STU1564,Female,Online,Science,64.2,2.7,49.6,10.0,64.8,20.0,1,69.3,Average
+STU1565,Female,Online,Mathematics,66.7,5.2,66.1,9.0,85.0,36.1,2,88.5,High
+STU1566,Male,Classroom,English,70.4,4.9,57.8,4.4,88.8,43.5,1,75.9,High
+STU1567,Female,Blended,Mathematics,64.0,3.6,31.1,6.9,76.3,43.5,3,63.2,Average
+STU1568,Male,Classroom,Science,79.9,2.8,46.3,7.5,51.5,22.5,1,67.5,Average
+STU1569,Female,Blended,Computer Science,86.8,4.6,54.5,2.5,73.4,39.0,1,84.5,High
+STU1570,Female,Blended,Science,59.0,4.1,57.8,7.5,78.1,36.4,0,86.1,High
+STU1571,Male,Classroom,English,78.3,1.6,54.0,10.0,76.4,34.1,1,58.6,Average
+STU1572,Female,Classroom,Computer Science,75.4,3.7,67.6,7.9,77.2,33.3,3,83.2,High
+STU1573,Male,Classroom,Social Science,82.1,4.2,61.0,9.7,71.7,28.1,3,79.2,High
+STU1574,Male,Blended,English,77.8,2.5,51.3,6.9,66.1,34.7,1,71.9,Average
+STU1575,Female,Blended,Mathematics,60.6,4.1,53.8,6.3,59.1,43.5,1,73.0,Average
+STU1576,Female,Classroom,Mathematics,62.9,1.6,39.5,7.3,42.3,22.4,3,47.2,Low
+STU1577,Male,Classroom,Social Science,,5.8,47.9,4.7,71.4,48.7,2,81.4,High
+STU1578,Male,Classroom,Computer Science,90.3,5.7,37.1,4.4,69.4,43.0,0,83.2,High
+STU1579,Male,Blended,Computer Science,51.4,3.4,,9.3,74.2,24.2,0,85.4,High
+STU1580,Male,Classroom,Computer Science,82.1,4.3,56.4,9.5,49.6,49.5,3,77.7,High
+STU1581,Female,Classroom,Mathematics,92.3,0.5,42.6,4.3,75.4,24.4,0,65.3,Average
+STU1582,Female,Online,English,76.2,2.1,65.0,8.6,93.7,32.3,1,86.6,High
+STU1583,Male,Classroom,Computer Science,84.6,3.4,51.9,6.3,68.0,47.2,2,77.5,High
+STU1584,Male,Blended,Social Science,69.6,2.2,56.2,7.2,66.2,20.0,2,54.0,Average
+STU1585,Male,Classroom,Science,76.6,4.9,54.0,7.5,71.0,37.5,1,91.2,High
+STU1586,Female,Classroom,English,58.5,6.8,71.0,8.7,93.4,50.1,0,100.0,High
+STU1587,Male,Blended,Mathematics,49.9,2.0,42.8,6.7,53.7,20.0,3,55.2,Average
+STU1588,Male,Classroom,Social Science,89.3,2.5,65.6,9.6,69.6,39.9,2,73.3,Average
+STU1589,Female,Classroom,Science,66.2,4.2,35.7,7.2,56.6,34.8,1,62.9,Average
+STU1590,Male,Online,Computer Science,72.5,6.2,51.9,7.9,59.9,40.1,1,99.8,High
+STU1591,Male,Online,Science,61.4,2.0,47.9,4.7,66.4,23.7,2,50.3,Average
+STU1592,Female,Blended,Computer Science,61.1,4.2,71.9,10.0,84.5,38.2,3,93.7,High
+STU1593,Female,Classroom,Computer Science,75.9,6.5,68.1,7.5,90.4,57.6,1,100.0,High
+STU1594,Female,Classroom,Science,69.2,1.3,46.8,8.1,72.8,26.3,3,57.3,Average
+STU1595,Male,Classroom,Computer Science,82.5,1.9,45.5,3.0,62.1,29.4,1,56.7,Average
+STU1596,Female,Online,Social Science,83.4,3.2,64.4,4.7,98.0,35.7,0,76.3,High
+STU1597,Female,Blended,Social Science,81.9,3.0,49.3,9.2,61.4,32.9,2,72.6,Average
+STU1598,Female,Blended,Science,80.9,5.0,54.6,7.1,59.6,37.5,1,75.7,High
+STU1599,Female,Online,Computer Science,96.9,4.2,47.9,2.3,43.9,41.7,1,63.8,Average
+STU1600,Female,Classroom,English,65.2,1.1,66.5,8.8,85.1,20.0,3,72.7,Average
+STU1601,Male,Blended,English,77.3,4.6,60.4,5.3,79.6,53.0,2,84.0,High
+STU1602,Female,Classroom,English,91.6,2.9,66.5,9.6,98.0,46.7,0,85.8,High
+STU1603,Female,Classroom,Computer Science,93.2,5.7,50.0,6.3,48.9,53.5,2,86.6,High
+STU1604,Female,Online,Mathematics,60.9,2.9,58.0,7.0,86.0,31.8,1,75.5,High
+STU1605,Female,Online,Science,74.3,2.8,51.8,9.1,67.9,31.4,3,67.2,Average
+STU1606,Female,Classroom,Mathematics,94.3,4.6,56.7,4.5,77.5,32.2,0,89.3,High
+STU1607,Male,Classroom,Science,84.1,4.9,36.0,4.3,45.6,40.3,2,66.0,Average
+STU1608,Male,Blended,Mathematics,80.3,4.5,67.8,6.1,86.1,40.7,1,81.4,High
+STU1609,Male,Classroom,Mathematics,75.4,1.3,43.4,,77.2,25.9,3,72.5,Average
+STU1610,Female,Blended,Computer Science,73.4,4.6,44.5,3.6,66.5,41.8,1,72.4,Average
+STU1611,Male,Blended,English,81.5,2.2,46.0,2.8,75.4,34.7,0,64.5,Average
+STU1612,Male,Classroom,Mathematics,75.0,4.2,64.5,8.3,57.0,32.9,0,80.0,High
+STU1613,Female,Classroom,Computer Science,77.5,1.7,38.6,5.2,59.5,20.0,2,60.6,Average
+STU1614,Female,Classroom,Social Science,78.9,4.5,44.4,5.6,61.0,51.0,2,70.4,Average
+STU1615,Male,Online,Social Science,69.9,2.6,28.9,2.4,42.9,32.9,5,30.4,Low
+STU1616,Female,Classroom,Social Science,84.4,1.9,60.7,5.0,78.2,23.9,2,62.3,Average
+STU1617,Female,Blended,Social Science,100.0,4.9,41.6,6.5,82.5,44.7,1,95.3,High
+STU1618,Male,Classroom,English,56.7,4.2,42.0,8.5,57.9,34.5,2,75.6,High
+STU1619,Female,Blended,Social Science,81.9,2.9,67.5,4.8,71.5,31.8,3,67.4,Average
+STU1620,Other,Classroom,Social Science,68.9,6.0,62.8,10.0,63.5,51.1,0,100.0,High
+STU1621,Female,Classroom,Science,84.9,3.1,41.8,5.0,71.3,53.8,1,75.9,High
+STU1622,Female,Blended,Social Science,,3.8,45.7,5.0,58.8,37.4,0,70.4,Average
+STU1623,Female,Blended,Computer Science,87.1,4.2,,9.9,55.5,46.9,3,78.5,High
+STU1624,Female,Classroom,Computer Science,92.1,2.9,62.0,7.0,80.7,20.9,2,78.8,High
+STU1625,Male,Classroom,Social Science,80.3,4.5,63.5,5.3,66.2,35.8,1,75.1,High
+STU1626,Male,Online,Science,91.6,3.0,62.2,6.2,93.3,44.4,1,84.1,High
+STU1627,Male,Classroom,Science,49.9,3.2,47.1,9.5,67.6,32.8,2,71.9,Average
+STU1628,Male,Classroom,Computer Science,97.1,5.8,63.8,9.7,55.0,20.0,1,82.6,High
+STU1629,Female,Classroom,Computer Science,82.5,2.2,46.0,4.7,83.0,33.8,1,67.2,Average
+STU1630,Female,Classroom,Social Science,90.9,0.5,40.7,6.4,75.2,37.4,1,59.1,Average
+STU1631,Female,Blended,Social Science,63.4,6.2,45.8,6.7,76.4,29.9,1,92.6,High
+STU1632,Male,Blended,Computer Science,68.0,7.6,49.3,4.3,82.5,64.7,0,87.1,High
+STU1633,Male,Blended,Social Science,79.8,3.2,40.4,6.4,58.5,20.0,1,63.8,Average
+STU1634,Female,Blended,Mathematics,77.8,0.9,35.7,6.5,65.3,29.2,1,53.3,Average
+STU1635,Male,Classroom,Social Science,81.4,3.3,55.5,9.0,64.8,35.8,2,82.3,High
+STU1636,Male,Blended,Mathematics,91.0,3.4,41.3,9.2,50.2,20.0,2,69.2,Average
+STU1637,Female,Classroom,English,56.8,3.5,25.0,5.8,63.6,34.3,1,72.9,Average
+STU1638,Male,Classroom,Mathematics,89.7,2.1,46.7,6.0,84.4,39.0,2,74.2,Average
+STU1639,Male,Blended,English,78.1,4.7,52.8,8.0,70.1,44.3,2,80.0,High
+STU1640,Male,Classroom,Science,75.6,4.6,40.1,5.2,49.5,43.8,3,67.1,Average
+STU1641,Female,Classroom,Mathematics,60.3,1.6,49.4,7.8,46.8,20.0,3,49.7,Low
+STU1642,Female,Classroom,Computer Science,84.0,4.8,56.9,6.3,88.6,27.6,0,95.4,High
+STU1643,Male,Blended,Computer Science,49.0,6.9,56.8,4.4,65.8,50.9,0,79.3,High
+STU1644,Male,Classroom,Mathematics,85.8,4.1,46.2,4.4,58.6,51.9,0,69.7,Average
+STU1645,Other,Blended,Computer Science,60.1,3.3,50.9,9.7,63.4,41.2,1,78.1,High
+STU1646,Male,Blended,Mathematics,78.6,3.6,37.4,6.2,47.8,20.0,2,68.9,Average
+STU1647,Female,Blended,Mathematics,76.6,4.7,64.1,10.0,85.5,30.3,0,83.0,High
+STU1648,Female,Classroom,Mathematics,92.0,1.2,38.1,5.4,61.9,20.0,2,62.7,Average
+STU1649,Male,Blended,English,75.9,4.0,59.6,7.1,84.8,24.7,0,84.9,High
+STU1650,Female,Classroom,Computer Science,69.7,3.2,52.5,10.0,67.7,34.0,0,68.9,Average
+STU1651,Male,Online,English,71.9,6.6,52.7,4.2,85.6,51.0,1,73.4,Average
+STU1652,Male,Blended,Computer Science,93.3,3.5,54.0,2.3,70.3,24.2,1,60.5,Average
+STU1653,Female,Classroom,English,84.4,6.3,68.3,9.3,78.1,57.6,0,100.0,High
+STU1654,Female,Blended,Computer Science,73.4,2.1,44.1,4.7,76.3,31.1,0,65.6,Average
+STU1655,Female,Classroom,Social Science,75.2,4.7,56.3,6.5,75.1,35.8,2,84.6,High
+STU1656,Female,Classroom,Science,59.2,4.3,48.8,5.2,71.5,33.3,3,65.4,Average
+STU1657,Male,Classroom,Mathematics,82.7,2.5,42.4,7.1,64.0,20.0,1,59.7,Average
+STU1658,Female,Blended,Mathematics,56.9,4.1,55.0,4.4,91.9,30.1,0,76.8,High
+STU1659,Female,Blended,English,87.0,5.6,46.9,6.1,55.2,46.9,3,78.0,High
+STU1660,Female,Online,English,79.5,3.3,44.9,7.5,67.1,36.0,0,77.3,High
+STU1661,Female,Classroom,Mathematics,100.0,1.3,33.4,4.3,67.2,29.5,5,44.1,Low
+STU1662,Male,Blended,Social Science,64.8,3.8,46.3,5.0,72.2,35.0,4,69.6,Average
+STU1663,Male,Blended,Social Science,76.8,2.4,48.7,5.7,61.4,26.8,0,62.7,Average
+STU1664,Male,Blended,Science,99.6,3.3,44.2,3.4,71.1,38.3,1,65.3,Average
+STU1665,Male,Classroom,Mathematics,92.3,3.7,67.8,5.6,64.8,45.8,1,76.7,High
+STU1666,Female,Classroom,Mathematics,69.6,1.2,43.7,6.8,46.4,21.4,2,57.2,Average
+STU1667,Male,Blended,Science,80.7,1.4,53.8,5.6,67.1,26.8,2,59.1,Average
+STU1668,Female,Classroom,Social Science,78.0,4.5,52.2,5.9,52.7,38.1,3,66.0,Average
+STU1669,Male,Classroom,English,81.4,3.0,54.6,6.5,44.5,27.8,2,69.2,Average
+STU1670,Female,Blended,Mathematics,69.6,0.5,35.6,5.1,68.8,21.7,1,63.4,Average
+STU1671,Female,Classroom,English,76.9,5.0,40.0,8.0,73.3,38.3,1,84.6,High
+STU1672,Female,Classroom,Mathematics,58.8,4.2,53.5,9.7,73.8,39.5,2,88.3,High
+STU1673,Male,Classroom,Science,79.6,2.7,53.7,5.5,74.4,30.9,0,79.3,High
+STU1674,Female,Blended,Science,83.4,1.8,41.1,7.6,41.9,25.5,1,54.4,Average
+STU1675,Male,Online,Computer Science,75.3,5.1,48.3,6.0,49.3,39.2,4,68.7,Average
+STU1676,Female,Classroom,English,58.6,4.3,69.2,7.3,92.7,31.8,0,82.2,High
+STU1677,Male,Classroom,Social Science,89.9,7.4,63.3,9.9,53.4,44.9,1,100.0,High
+STU1678,Male,Blended,Mathematics,82.4,4.4,62.9,7.6,74.9,43.9,1,83.5,High
+STU1679,Female,Classroom,Computer Science,69.3,4.4,35.6,2.6,58.1,37.5,2,59.4,Average
+STU1680,Female,Online,Mathematics,74.6,3.5,44.2,7.5,68.0,41.7,4,63.7,Average
+STU1681,Female,Blended,Science,,5.0,63.9,9.2,58.8,36.3,2,80.6,High
+STU1682,Male,Classroom,Social Science,65.7,4.7,54.0,6.0,74.3,53.7,0,87.4,High
+STU1683,Male,Classroom,Computer Science,71.5,5.7,53.8,8.7,68.8,42.6,0,91.2,High
+STU1684,Female,Classroom,Mathematics,92.7,3.0,42.3,5.0,61.2,27.3,1,55.5,Average
+STU1685,Female,Blended,English,70.3,3.1,34.3,3.2,53.3,22.1,2,49.3,Low
+STU1686,Female,Classroom,Computer Science,85.7,3.1,47.0,6.8,70.5,20.4,0,65.3,Average
+STU1687,Female,Online,Social Science,71.5,5.0,32.5,2.6,51.2,51.4,3,63.3,Average
+STU1688,Male,Blended,Computer Science,81.0,6.0,46.9,6.0,72.6,58.8,0,94.4,High
+STU1689,Female,Online,Mathematics,76.3,3.1,62.9,9.3,98.0,38.8,3,85.9,High
+STU1690,Female,Online,English,88.5,3.2,46.5,2.3,84.6,25.7,3,60.2,Average
+STU1691,Male,Classroom,Mathematics,71.6,4.3,58.0,3.7,76.3,50.6,1,79.1,High
+STU1692,Male,Blended,Mathematics,59.1,3.4,46.1,4.2,65.9,27.1,2,59.2,Average
+STU1693,Male,Blended,English,61.4,5.2,44.9,6.4,41.8,38.2,0,66.9,Average
+STU1694,Female,Classroom,Computer Science,71.6,0.5,30.5,5.7,49.8,29.7,4,44.1,Low
+STU1695,Male,Classroom,Mathematics,63.0,2.6,56.0,9.6,83.7,34.2,1,83.1,High
+STU1696,Male,Classroom,Computer Science,82.9,2.6,51.0,8.6,56.7,50.0,1,78.5,High
+STU1697,Male,Classroom,Computer Science,72.4,0.5,46.5,7.6,57.9,21.3,2,49.2,Low
+STU1698,Female,Online,Computer Science,100.0,2.4,49.4,6.8,64.8,30.0,1,78.0,High
+STU1699,Male,Classroom,Science,57.1,2.4,49.4,7.4,53.2,21.2,2,56.1,Average
+STU1700,Male,Blended,Science,80.4,3.5,,4.6,51.1,20.0,3,62.4,Average
+STU1701,Male,Online,Mathematics,64.5,5.5,61.1,8.4,66.3,40.9,0,87.0,High
+STU1702,Male,Classroom,Science,72.1,3.4,38.2,4.1,55.4,41.3,4,54.7,Average
+STU1703,Male,Blended,Science,79.7,2.3,34.4,8.3,57.4,34.6,1,50.1,Average
+STU1704,Male,Classroom,Science,50.1,3.7,49.6,9.1,56.8,32.3,4,63.4,Average
+STU1705,Male,Classroom,Mathematics,80.8,5.4,62.9,7.0,73.8,36.9,0,92.3,High
+STU1706,Female,Classroom,Mathematics,100.0,2.3,52.7,6.1,64.0,34.6,2,65.8,Average
+STU1707,Female,Classroom,Social Science,72.6,2.4,50.7,7.4,64.7,37.0,1,79.4,High
+STU1708,Male,Classroom,Computer Science,81.1,4.6,45.2,1.0,74.8,41.7,1,64.7,Average
+STU1709,Male,Classroom,Science,90.3,3.5,46.4,7.2,65.2,38.5,3,67.9,Average
+STU1710,Male,Classroom,Social Science,76.0,4.8,55.0,6.3,63.4,34.3,3,69.6,Average
+STU1711,Male,Classroom,Science,71.0,3.8,55.0,6.4,73.1,41.8,3,69.6,Average
+STU1712,Male,Blended,Science,50.7,4.9,51.4,8.1,75.7,20.0,1,86.4,High
+STU1713,Male,Classroom,Computer Science,85.7,2.2,55.3,6.3,65.1,32.9,2,75.6,High
+STU1714,Female,Blended,English,76.6,3.8,41.1,4.0,68.0,55.3,1,66.4,Average
+STU1715,Male,Online,Science,65.8,3.5,40.7,6.2,56.8,20.3,1,60.3,Average
+STU1716,Female,Blended,Science,79.5,2.0,54.9,6.6,55.8,25.6,1,56.8,Average
+STU1717,Male,Blended,English,71.0,1.5,54.9,6.8,77.0,23.4,1,73.5,Average
+STU1718,Male,Blended,Computer Science,71.7,4.8,52.5,6.9,72.8,36.8,1,89.1,High
+STU1719,Female,Blended,Science,85.3,3.3,58.1,8.8,72.9,44.4,0,84.0,High
+STU1720,Female,Online,English,61.9,2.3,44.4,4.1,70.7,28.3,2,49.1,Low
+STU1721,Female,Online,Science,90.6,3.7,33.7,6.9,67.6,39.2,3,61.7,Average
+STU1722,Male,Classroom,English,61.2,5.5,53.7,9.3,76.1,49.5,2,89.8,High
+STU1723,Female,Blended,Mathematics,70.0,0.5,40.9,2.7,79.2,20.0,1,53.6,Average
+STU1724,Female,Blended,Social Science,100.0,1.6,50.9,6.9,78.8,54.7,0,63.5,Average
+STU1725,Male,Classroom,Computer Science,91.5,2.4,48.8,5.2,65.7,32.4,2,63.1,Average
+STU1726,Female,Blended,Science,79.2,6.0,68.9,5.7,85.0,48.6,0,100.0,High
+STU1727,Male,Blended,Computer Science,66.7,4.2,46.3,4.5,70.0,21.7,3,64.9,Average
+STU1728,Male,Blended,Mathematics,71.6,5.0,47.6,6.1,75.2,36.4,1,90.1,High
+STU1729,Female,Classroom,Science,78.9,2.1,56.1,10.0,70.7,38.8,4,73.3,Average
+STU1730,Female,Classroom,English,78.5,2.1,41.9,3.7,70.2,20.0,0,55.1,Average
+STU1731,Other,Classroom,English,76.9,4.5,44.0,3.9,57.4,20.9,3,62.1,Average
+STU1732,Male,Blended,Computer Science,77.6,3.9,47.9,3.6,76.1,35.5,1,71.8,Average
+STU1733,Female,Online,Social Science,75.4,4.6,84.2,10.0,98.0,52.7,0,100.0,High
+STU1734,Male,Online,Science,60.7,3.5,29.3,5.5,62.1,31.6,0,58.9,Average
+STU1735,Male,Classroom,Science,71.8,4.2,48.6,6.4,67.9,34.5,2,83.0,High
+STU1736,Female,Classroom,Computer Science,89.0,4.0,49.4,5.6,61.2,24.1,2,65.7,Average
+STU1737,Male,Blended,Science,61.6,5.0,40.7,4.4,60.7,41.7,4,71.2,Average
+STU1738,Male,Blended,Mathematics,75.7,5.0,65.9,6.0,87.1,47.0,2,85.8,High
+STU1739,Female,Classroom,Social Science,68.2,1.4,52.3,10.0,58.3,20.0,2,62.1,Average
+STU1740,Male,Classroom,Computer Science,79.3,0.5,45.9,9.6,60.8,30.6,1,64.7,Average
+STU1741,Female,Classroom,Social Science,73.3,5.3,41.7,4.6,46.4,48.2,0,70.8,Average
+STU1742,Female,Blended,Mathematics,95.7,5.6,54.9,7.9,57.2,58.2,3,89.3,High
+STU1743,Female,Blended,Mathematics,84.1,2.3,37.0,4.7,44.8,33.5,2,41.3,Low
+STU1744,Male,Classroom,English,62.3,1.0,39.4,2.6,75.2,22.8,4,46.3,Low
+STU1745,Male,Online,Social Science,86.1,3.9,65.1,8.7,98.0,43.8,1,79.7,High
+STU1746,Male,Blended,Mathematics,68.7,5.2,56.8,9.1,62.2,49.8,2,83.5,High
+STU1747,Female,Online,Mathematics,71.1,6.5,57.2,8.8,45.3,35.1,1,92.5,High
+STU1748,Male,Classroom,Mathematics,81.8,4.6,47.0,5.5,78.7,28.3,2,81.3,High
+STU1749,Male,Classroom,Computer Science,72.1,3.2,37.8,6.1,57.5,26.4,2,54.4,Average
+STU1750,Female,Online,Computer Science,88.7,2.5,45.4,8.1,83.9,31.3,1,69.5,Average
+STU1751,Female,Online,Computer Science,68.7,3.8,55.9,7.4,63.3,38.2,2,69.8,Average
+STU1752,Male,Online,Mathematics,70.6,3.4,46.6,5.6,58.8,34.9,2,66.0,Average
+STU1753,Female,Blended,Computer Science,70.1,2.3,44.0,2.9,64.7,34.4,1,45.6,Low
+STU1754,Male,Classroom,English,71.2,6.9,50.7,6.8,76.9,59.7,1,95.3,High
+STU1755,Male,Classroom,Mathematics,91.2,6.5,73.4,8.9,64.0,46.3,1,100.0,High
+STU1756,Female,Classroom,Science,85.5,5.5,45.1,3.9,60.5,46.8,2,74.5,Average
+STU1757,Other,Online,English,98.5,2.4,52.7,7.9,64.4,27.0,1,76.4,High
+STU1758,Male,Classroom,Science,100.0,5.1,57.7,7.2,50.5,45.5,0,88.3,High
+STU1759,Male,Blended,Social Science,65.6,4.8,48.9,8.2,72.2,42.3,3,75.3,High
+STU1760,Male,Online,English,78.8,4.5,43.4,8.4,43.8,20.0,4,54.3,Average
+STU1761,Male,Online,Science,63.9,5.7,50.3,5.0,61.2,61.6,2,79.3,High
+STU1762,Male,Online,Computer Science,68.7,4.8,70.0,2.9,76.9,42.1,1,74.7,Average
+STU1763,Female,Blended,Computer Science,70.4,4.9,54.2,5.3,70.9,35.1,1,76.1,High
+STU1764,Female,Classroom,Mathematics,65.3,4.8,68.4,8.5,74.7,55.2,3,88.6,High
+STU1765,Female,Online,Computer Science,65.4,4.3,56.9,5.3,66.2,33.2,1,83.4,High
+STU1766,Female,Classroom,Science,76.3,1.1,50.4,5.0,82.2,22.9,1,61.8,Average
+STU1767,Female,Classroom,Science,63.4,3.9,40.7,2.5,79.0,28.4,3,65.7,Average
+STU1768,Female,Online,Computer Science,88.1,3.0,65.0,10.0,72.8,48.9,2,74.7,Average
+STU1769,Other,Blended,English,67.0,1.9,41.8,8.3,79.1,24.8,4,62.4,Average
+STU1770,Female,Blended,Science,100.0,6.3,76.3,8.2,76.8,54.9,0,100.0,High
+STU1771,Female,Classroom,Mathematics,72.6,6.4,58.6,8.6,61.3,59.0,2,99.2,High
+STU1772,Female,Classroom,English,78.9,5.8,32.7,7.8,49.5,52.0,4,70.7,Average
+STU1773,Male,Online,Science,62.5,4.2,48.6,6.0,72.5,34.7,1,73.4,Average
+STU1774,Female,Blended,Social Science,98.5,5.8,64.4,6.1,74.1,58.8,1,100.0,High
+STU1775,Male,Classroom,English,,3.8,54.5,5.6,81.2,58.6,0,84.8,High
+STU1776,Male,Blended,Social Science,81.6,4.1,58.0,10.0,54.8,42.7,3,71.9,Average
+STU1777,Female,Online,Science,61.8,2.2,37.1,7.7,55.2,26.7,1,74.7,Average
+STU1778,Other,Online,Social Science,80.5,4.4,44.0,5.5,73.0,40.6,1,71.1,Average
+STU1779,Female,Classroom,Mathematics,64.5,3.9,50.2,7.5,66.1,45.3,0,78.0,High
+STU1780,Male,Blended,Science,95.5,1.8,37.0,4.3,42.5,23.8,5,46.5,Low
+STU1781,Female,Classroom,Mathematics,87.7,3.7,56.1,9.8,71.9,37.1,3,82.6,High
+STU1782,Male,Classroom,Mathematics,79.1,3.7,48.8,5.0,42.9,22.9,2,60.6,Average
+STU1783,Male,Classroom,Social Science,48.8,6.5,44.7,7.6,54.7,35.6,0,82.5,High
+STU1784,Female,Blended,Computer Science,66.2,5.1,64.3,8.8,84.6,37.9,3,87.1,High
+STU1785,Female,Blended,Computer Science,86.3,3.8,62.0,7.3,90.7,37.8,0,83.5,High
+STU1786,Female,Classroom,English,92.6,4.2,37.4,6.7,51.2,55.0,1,87.3,High
+STU1787,Female,Classroom,English,91.3,3.9,42.0,6.5,62.7,43.3,0,76.3,High
+STU1788,Other,Classroom,Computer Science,58.9,3.5,48.0,6.4,67.6,24.0,1,72.6,Average
+STU1789,Male,Classroom,Social Science,81.6,2.2,67.9,5.2,90.2,22.4,0,75.1,High
+STU1790,Male,Blended,English,90.2,3.6,52.2,5.5,60.6,47.9,1,72.2,Average
+STU1791,Other,Classroom,Computer Science,58.1,2.7,36.7,9.8,60.8,37.8,3,60.5,Average
+STU1792,Male,Classroom,Science,77.9,1.9,,6.3,87.1,27.0,1,56.6,Average
+STU1793,Male,Online,Social Science,81.3,4.6,53.8,4.8,62.1,36.3,2,73.0,Average
+STU1794,Female,Classroom,Mathematics,74.4,,52.7,5.4,76.4,47.0,0,79.8,High
+STU1795,Female,Online,Science,55.8,1.1,47.3,8.9,47.8,20.0,3,57.7,Average
+STU1796,Female,Blended,Social Science,74.1,3.6,45.3,8.0,64.8,38.5,4,61.2,Average
+STU1797,Female,Blended,Mathematics,74.1,5.3,50.5,7.7,45.4,61.8,1,77.6,High
+STU1798,Female,Blended,Mathematics,76.2,5.4,54.5,5.9,53.3,45.3,2,72.5,Average
+STU1799,Female,Classroom,Science,71.2,5.3,56.1,7.8,77.9,37.2,0,99.7,High
+STU1800,Female,Blended,English,72.7,3.9,45.1,5.1,66.4,38.2,3,61.5,Average
+STU1801,Female,Blended,Social Science,77.5,2.5,45.9,5.9,62.9,25.8,1,68.1,Average
+STU1802,Female,Classroom,Social Science,83.3,2.2,51.6,8.6,57.3,20.0,3,69.4,Average
+STU1803,Female,Blended,English,74.3,4.3,53.4,8.4,64.1,44.8,1,80.8,High
+STU1804,Female,Blended,Social Science,73.1,4.4,56.5,4.3,70.9,46.1,2,66.7,Average
+STU1805,Male,Online,Computer Science,79.1,5.7,53.7,4.6,79.8,42.7,1,78.7,High
+STU1806,Male,Blended,Social Science,54.9,5.4,,6.7,32.9,37.5,2,69.3,Average
+STU1807,Male,Classroom,Science,83.7,3.6,66.5,10.0,56.2,30.4,3,70.0,Average
+STU1808,Female,Online,English,78.0,1.9,37.0,2.3,69.1,23.7,1,57.0,Average
+STU1809,Female,Online,Mathematics,78.5,3.3,46.4,7.1,65.7,29.8,3,68.6,Average
+STU1810,Female,Blended,Mathematics,89.5,4.1,49.9,3.5,72.2,30.4,1,76.5,High
+STU1811,Female,Classroom,Computer Science,54.6,3.5,47.0,5.1,70.5,45.0,2,69.4,Average
+STU1812,Female,Blended,Mathematics,54.3,2.9,40.9,5.7,63.0,31.0,1,56.4,Average
+STU1813,Other,Blended,English,81.3,4.2,48.2,5.6,60.2,42.9,2,66.4,Average
+STU1814,Female,Classroom,Computer Science,77.9,3.0,46.1,5.3,63.8,39.0,1,72.2,Average
+STU1815,Female,Online,Mathematics,80.0,,55.6,6.5,81.9,38.1,2,70.7,Average
+STU1816,Male,Blended,English,72.5,,29.7,5.3,57.5,33.7,2,48.2,Low
+STU1817,Male,Online,Computer Science,86.0,3.2,58.6,3.3,66.2,35.3,1,73.5,Average
+STU1818,Female,Blended,Social Science,89.2,4.2,55.4,8.2,69.4,38.8,1,78.1,High
+STU1819,Female,Classroom,Science,83.8,4.2,66.2,8.2,87.3,43.7,1,94.4,High
+STU1820,Male,Online,Social Science,74.9,2.1,38.6,8.4,63.1,30.8,1,73.6,Average
+STU1821,Female,Blended,Social Science,52.7,3.1,42.3,3.1,79.5,23.4,1,62.1,Average
+STU1822,Male,Classroom,Computer Science,87.2,6.0,58.7,7.2,83.0,38.4,0,100.0,High
+STU1823,Male,Classroom,Science,92.7,2.1,61.1,8.0,66.2,32.1,5,65.8,Average
+STU1824,Female,Classroom,Computer Science,85.7,0.6,36.4,4.2,64.3,20.0,4,53.9,Average
+STU1825,Male,Blended,Computer Science,67.4,1.0,47.3,6.5,62.7,20.0,3,45.5,Low
+STU1826,Female,Classroom,Science,86.1,3.8,45.9,6.2,63.7,41.9,3,70.6,Average
+STU1827,Female,Online,Social Science,88.3,3.8,58.2,10.0,78.1,47.9,0,96.0,High
+STU1828,Female,Online,Social Science,96.7,3.6,57.4,10.0,70.0,60.8,0,89.9,High
+STU1829,Other,Blended,English,67.5,5.6,58.2,2.8,70.1,38.5,1,86.2,High
+STU1830,Female,Classroom,Computer Science,75.3,0.5,30.2,10.0,52.4,20.0,1,51.7,Average
+STU1831,Female,Blended,English,87.0,4.4,36.7,4.5,54.4,31.0,1,81.3,High
+STU1832,Male,Classroom,Computer Science,78.7,6.1,55.5,8.7,94.9,50.9,0,100.0,High
+STU1833,Female,Blended,Social Science,,2.1,40.4,8.6,64.7,28.1,3,62.1,Average
+STU1834,Male,Classroom,Mathematics,83.0,3.2,37.8,4.3,56.9,26.8,1,66.0,Average
+STU1835,Male,Online,Mathematics,84.9,2.7,46.1,7.6,85.6,31.0,2,81.5,High
+STU1836,Male,Classroom,Science,79.1,2.5,43.9,6.3,70.7,20.0,2,57.0,Average
+STU1837,Male,Classroom,Social Science,80.6,3.3,40.5,7.7,74.5,42.3,2,65.9,Average
+STU1838,Male,Online,Science,74.9,5.9,48.3,7.0,65.2,40.5,0,95.7,High
+STU1839,Female,Blended,Social Science,95.7,6.6,70.0,9.1,62.9,54.3,3,99.4,High
+STU1840,Other,Online,English,67.2,3.3,50.8,6.7,64.8,20.5,2,65.9,Average
+STU1841,Male,Online,Science,71.0,6.7,50.8,6.1,49.0,44.5,3,79.5,High
+STU1842,Male,Classroom,Social Science,78.1,3.9,47.3,8.9,65.9,35.5,1,64.6,Average
+STU1843,Male,Classroom,English,88.5,6.4,50.5,7.8,70.8,51.9,2,91.9,High
+STU1844,Male,Blended,Science,60.0,3.7,51.3,8.1,91.1,37.0,1,77.3,High
+STU1845,Male,Blended,Mathematics,62.3,4.0,47.4,5.0,68.1,45.2,1,77.3,High
+STU1846,Female,Online,Mathematics,53.5,4.3,41.2,4.2,36.7,39.3,3,61.3,Average
+STU1847,Male,Classroom,Mathematics,78.4,8.6,65.5,5.3,65.8,67.3,0,100.0,High
+STU1848,Male,Blended,Science,64.6,5.1,65.3,5.1,98.0,51.1,0,95.6,High
+STU1849,Male,Classroom,Computer Science,73.4,2.7,49.4,8.2,78.3,35.6,0,68.6,Average
+STU1850,Female,Blended,Science,85.9,5.3,54.8,8.6,56.5,45.8,3,86.1,High
+STU1851,Male,Blended,Mathematics,70.3,3.3,48.7,6.2,74.7,40.1,3,72.4,Average
+STU1852,Male,Online,Science,80.8,3.1,49.6,9.6,57.4,43.3,4,76.6,High
+STU1853,Female,Classroom,Science,74.4,5.2,66.1,9.5,49.4,49.2,2,97.8,High
+STU1854,Other,Classroom,Social Science,86.1,3.8,38.9,7.0,62.5,26.6,0,65.0,Average
+STU1855,Male,Classroom,Science,83.7,4.2,48.6,4.7,68.2,31.8,1,72.3,Average
+STU1856,Female,Classroom,Mathematics,69.7,3.8,55.1,10.0,42.7,34.4,2,68.0,Average
+STU1857,Female,Classroom,English,76.0,4.3,36.1,6.4,52.1,44.6,1,71.7,Average
+STU1858,Male,Online,Social Science,90.5,4.4,49.8,6.8,67.1,41.7,3,77.3,High
+STU1859,Female,Classroom,Computer Science,82.7,0.9,38.4,5.8,61.7,31.3,5,45.3,Low
+STU1860,Male,Classroom,Social Science,61.2,4.8,48.4,4.5,72.1,47.8,2,80.3,High
+STU1861,Female,Blended,Social Science,85.9,2.3,27.1,3.3,51.2,38.3,2,44.9,Low
+STU1862,Female,Classroom,Computer Science,65.0,1.6,54.1,7.9,76.3,33.5,0,64.2,Average
+STU1863,Female,Classroom,Social Science,95.0,3.7,49.5,4.8,51.6,29.7,4,56.7,Average
+STU1864,Male,Online,Mathematics,90.3,3.9,69.0,10.0,88.4,44.7,1,93.5,High
+STU1865,Other,Classroom,Social Science,81.5,2.8,31.6,4.1,44.7,25.7,2,45.1,Low
+STU1866,Male,Classroom,Social Science,79.9,5.0,45.4,3.7,52.8,28.3,2,68.5,Average
+STU1867,Male,Blended,Social Science,75.5,1.8,43.5,7.6,72.4,24.0,1,64.7,Average
+STU1868,Male,Classroom,English,86.1,3.2,60.8,9.9,88.6,47.0,1,84.7,High
+STU1869,Female,Classroom,Computer Science,73.6,2.9,65.2,6.6,71.1,34.9,0,82.6,High
+STU1870,Male,Classroom,Mathematics,80.8,3.7,56.2,7.8,74.3,53.2,3,78.2,High
+STU1871,Male,Classroom,Computer Science,88.5,4.2,38.8,2.4,67.2,39.7,1,75.9,High
+STU1872,Female,Online,Science,71.3,2.3,41.1,5.0,53.7,46.4,4,51.4,Average
+STU1873,Other,Classroom,English,70.6,4.9,37.2,4.1,60.6,40.6,1,70.8,Average
+STU1874,Female,Classroom,Computer Science,63.7,3.9,29.2,2.3,51.2,32.3,2,50.7,Average
+STU1875,Female,Classroom,Science,65.2,1.0,30.4,6.8,50.4,20.0,1,48.6,Low
+STU1876,Male,Online,Mathematics,56.1,0.9,33.1,1.6,72.2,24.1,3,44.4,Low
+STU1877,Male,Classroom,Science,86.8,3.8,49.0,3.6,52.4,32.3,1,64.3,Average
+STU1878,Female,Online,Computer Science,99.7,3.5,56.5,5.3,71.2,32.8,1,80.5,High
+STU1879,Male,Classroom,Computer Science,95.1,3.6,47.6,4.7,50.1,47.9,2,62.8,Average
+STU1880,Female,Online,Computer Science,58.5,3.8,43.5,7.4,70.9,42.3,2,76.1,High
+STU1881,Male,Classroom,Mathematics,86.7,4.1,47.7,7.2,60.6,48.9,0,77.3,High
+STU1882,Male,Classroom,Computer Science,95.1,5.2,67.3,8.5,85.3,44.6,0,100.0,High
+STU1883,Female,Blended,Computer Science,72.5,2.1,46.2,8.2,71.2,27.4,3,64.5,Average
+STU1884,Male,Classroom,Mathematics,79.2,2.0,54.6,9.0,83.1,28.5,1,85.2,High
+STU1885,Male,Blended,Science,53.9,2.2,44.1,6.5,57.2,30.0,2,49.4,Low
+STU1886,Male,Blended,English,81.2,4.2,51.1,7.2,67.7,51.8,2,70.2,Average
+STU1887,Female,Blended,Science,65.2,5.7,52.3,7.6,54.2,46.8,1,79.0,High
+STU1888,Female,Classroom,Mathematics,80.4,3.2,59.5,6.8,61.6,49.4,1,66.9,Average
+STU1889,Other,Blended,Mathematics,59.3,0.5,37.7,5.6,63.6,23.2,2,38.6,Low
+STU1890,Male,Classroom,Mathematics,84.5,1.2,49.9,5.8,57.6,22.4,4,55.4,Average
+STU1891,Male,Online,Mathematics,90.3,2.6,45.3,4.7,51.2,38.0,1,62.5,Average
+STU1892,Male,Blended,Science,68.6,3.0,32.6,7.4,48.6,44.5,2,57.8,Average
+STU1893,Male,Blended,Computer Science,64.4,3.2,29.3,6.3,36.6,46.7,1,55.0,Average
+STU1894,Female,Online,English,,3.9,35.1,5.0,53.3,40.7,3,53.9,Average
+STU1895,Male,Blended,English,74.8,3.3,44.2,5.0,75.2,32.9,1,80.3,High
+STU1896,Male,Blended,Computer Science,71.0,5.4,41.6,3.8,46.2,39.8,1,65.4,Average
+STU1897,Female,Classroom,English,59.4,2.8,47.8,8.7,49.2,33.6,2,55.3,Average
+STU1898,Female,Blended,Mathematics,83.4,2.5,65.9,6.7,90.3,44.3,0,88.2,High
+STU1899,Male,Classroom,Science,72.6,4.5,48.3,4.6,58.7,41.4,0,73.4,Average
+STU1900,Male,Classroom,Science,65.1,1.5,45.3,8.3,71.2,27.0,0,78.5,High
+STU1901,Male,Blended,English,71.3,4.4,37.9,5.3,75.4,37.8,0,73.6,Average
+STU1902,Female,Classroom,English,90.9,4.0,51.7,3.4,75.6,35.2,3,76.0,High
+STU1903,Other,Blended,Science,85.2,3.6,47.9,8.7,47.2,36.3,1,79.9,High
+STU1904,Female,Classroom,English,76.4,6.2,54.4,5.3,64.0,48.4,2,81.0,High
+STU1905,Female,Classroom,Social Science,85.4,2.9,55.8,5.6,46.0,46.3,1,62.3,Average
+STU1906,Other,Online,Science,64.1,6.9,75.7,6.6,98.0,47.4,1,100.0,High
+STU1907,Male,Classroom,English,78.4,3.5,52.2,9.0,46.3,36.3,1,76.5,High
+STU1908,Male,Blended,English,79.8,1.9,35.5,6.5,53.4,20.1,2,46.6,Low
+STU1909,Male,Blended,Computer Science,72.4,3.9,38.2,3.9,53.5,40.2,2,55.0,Average
+STU1910,Male,Online,Computer Science,83.2,2.2,42.3,7.7,47.5,40.7,5,39.4,Low
+STU1911,Female,Classroom,Computer Science,68.6,2.7,46.4,5.4,84.6,41.4,2,72.3,Average
+STU1912,Female,Blended,Mathematics,84.1,4.4,72.6,10.0,98.0,43.7,0,100.0,High
+STU1913,Male,Classroom,English,84.6,4.6,53.9,6.5,60.8,46.2,2,77.6,High
+STU1914,Male,Classroom,Computer Science,43.0,2.9,25.0,1.6,49.8,21.6,5,25.0,Low
+STU1915,Female,Classroom,Science,92.3,5.3,55.3,7.3,37.9,50.9,0,76.7,High
+STU1916,Female,Classroom,Social Science,41.4,5.5,55.2,10.0,63.8,42.7,0,84.8,High
+STU1917,Female,Classroom,Science,70.6,6.0,46.4,10.0,62.9,47.9,1,86.3,High
+STU1918,Female,Classroom,English,90.3,4.6,56.1,10.0,58.5,45.3,1,88.3,High
+STU1919,Male,Classroom,English,74.2,5.8,54.6,4.3,69.9,48.3,1,87.6,High
+STU1920,Female,Blended,English,60.4,1.0,54.2,8.5,72.1,20.0,1,76.5,High
+STU1921,Female,Classroom,Social Science,64.9,3.3,45.0,4.9,71.2,28.8,3,62.7,Average
+STU1922,Male,Classroom,Mathematics,90.3,2.5,54.6,7.0,62.9,45.9,0,81.5,High
+STU1923,Male,Classroom,English,54.9,4.0,40.6,3.7,52.7,53.3,2,55.8,Average
+STU1924,Female,Classroom,Computer Science,91.5,2.9,42.4,5.1,75.7,24.1,3,55.6,Average
+STU1925,Female,Blended,Social Science,77.3,3.6,38.2,5.0,67.2,24.1,2,63.0,Average
+STU1926,Female,Online,Computer Science,63.7,6.6,70.3,8.5,78.5,41.2,0,92.0,High
+STU1927,Female,Blended,Social Science,71.0,3.5,64.1,8.3,77.3,33.8,0,84.5,High
+STU1928,Female,Blended,Social Science,65.8,4.4,47.5,7.1,48.5,44.7,2,65.8,Average
+STU1929,Female,Classroom,Science,88.4,3.5,50.9,3.5,48.4,39.7,1,53.5,Average
+STU1930,Female,Online,Social Science,86.8,3.9,55.2,5.8,57.2,39.5,2,83.1,High
+STU1931,Female,Classroom,Social Science,57.4,3.8,46.0,4.9,53.3,36.0,0,63.3,Average
+STU1932,Female,Classroom,Science,73.2,4.5,51.7,8.4,76.8,34.2,2,72.3,Average
+STU1933,Other,Classroom,Computer Science,67.6,5.5,71.1,9.1,71.6,42.5,1,99.5,High
+STU1934,Female,Classroom,Science,93.5,6.3,70.5,8.8,81.3,52.4,1,100.0,High
+STU1935,Female,Blended,Computer Science,61.8,4.3,46.6,4.8,72.2,22.2,3,73.5,Average
+STU1936,Male,Classroom,Mathematics,97.3,4.7,43.2,1.0,69.7,32.1,1,67.3,Average
+STU1937,Female,Classroom,Computer Science,77.6,2.1,48.5,2.6,82.6,20.0,1,58.8,Average
+STU1938,Male,Classroom,Science,64.1,3.7,44.1,9.6,73.1,40.8,1,80.9,High
+STU1939,Male,Online,English,,5.2,56.9,5.6,67.9,43.4,1,85.7,High
+STU1940,Male,Blended,Mathematics,68.4,5.1,50.2,4.8,86.2,45.1,1,88.3,High
+STU1941,Female,Online,Computer Science,62.7,4.1,58.2,10.0,68.5,22.2,0,83.4,High
+STU1942,Male,Online,English,79.1,5.1,53.1,9.3,63.0,32.7,0,91.9,High
+STU1943,Male,Online,Computer Science,63.3,4.5,45.2,6.6,56.1,42.7,1,77.7,High
+STU1944,Female,Classroom,Science,51.8,5.6,48.7,5.9,76.1,20.0,1,80.8,High
+STU1945,Female,Classroom,Mathematics,73.4,4.2,55.4,6.2,83.1,47.3,1,82.3,High
+STU1946,Female,Classroom,English,56.4,3.3,60.9,7.0,66.3,20.0,3,57.9,Average
+STU1947,Male,Classroom,Social Science,69.0,4.3,71.8,10.0,84.0,45.7,3,92.9,High
+STU1948,Female,Blended,Science,67.1,0.5,37.3,7.4,41.4,20.0,4,40.6,Low
+STU1949,Female,Classroom,Computer Science,67.5,4.4,52.9,8.1,66.3,46.5,3,74.1,Average
+STU1950,Male,Classroom,Mathematics,100.0,0.5,55.9,9.1,66.5,50.7,3,73.0,Average
+STU1951,Male,Blended,Computer Science,78.7,1.2,46.1,3.9,57.5,20.0,5,35.3,Low
+STU1952,Female,Classroom,Science,80.9,4.5,60.3,8.2,98.0,46.6,3,99.9,High
+STU1953,Female,Classroom,English,56.7,4.5,48.1,5.9,66.1,21.2,3,67.6,Average
+STU1954,Female,Classroom,Science,70.2,2.1,25.0,1.0,61.7,26.8,3,44.6,Low
+STU1955,Male,Blended,Mathematics,80.6,2.7,49.8,1.8,67.3,27.4,2,56.6,Average
+STU1956,Male,Classroom,Science,65.7,5.9,56.0,4.3,41.0,44.3,2,62.4,Average
+STU1957,Male,Classroom,Science,88.9,3.1,49.5,7.7,57.1,27.9,2,68.8,Average
+STU1958,Female,Classroom,English,63.6,7.2,46.6,6.8,79.8,56.9,1,97.2,High
+STU1959,Female,Blended,Social Science,74.6,3.8,52.5,6.9,58.8,24.3,1,76.7,High
+STU1960,Female,Classroom,English,71.0,4.4,46.6,10.0,56.2,49.8,1,79.9,High
+STU1961,Female,Classroom,Social Science,80.0,6.2,53.6,3.7,84.0,44.1,0,78.2,High
+STU1962,Male,Online,English,70.3,4.0,60.8,6.4,84.4,24.6,3,67.7,Average
+STU1963,Male,Online,Mathematics,74.7,2.3,52.4,7.2,73.7,41.3,1,83.8,High
+STU1964,Female,Classroom,Science,75.2,3.6,42.3,4.9,61.1,33.6,2,58.6,Average
+STU1965,Male,Classroom,Science,69.2,3.7,44.2,6.6,63.9,49.7,3,77.0,High
+STU1966,Female,Classroom,Science,83.8,1.8,39.1,3.0,56.5,35.1,3,44.1,Low
+STU1967,Male,Blended,Social Science,80.9,3.4,47.7,9.6,54.1,30.1,4,67.0,Average
+STU1968,Female,Classroom,Computer Science,76.9,2.7,33.6,5.0,53.4,29.1,1,62.2,Average
+STU1969,Male,Online,English,72.8,5.2,53.5,10.0,59.0,45.0,4,75.7,High
+STU1970,Female,Blended,English,87.6,3.9,49.7,6.4,53.5,50.4,3,79.8,High
+STU1971,Other,Blended,Science,75.2,3.4,44.7,,46.7,38.3,3,66.2,Average
+STU1972,Male,Classroom,Computer Science,74.3,3.6,41.1,6.4,69.9,36.2,3,70.8,Average
+STU1973,Male,Online,Mathematics,79.3,4.1,59.7,6.4,70.0,36.6,0,80.9,High
+STU1974,Male,Blended,Mathematics,98.4,4.7,42.0,5.2,89.1,43.5,0,92.1,High
+STU1975,Female,Blended,Science,61.9,2.3,39.9,6.8,58.3,36.5,4,63.8,Average
+STU1976,Male,Classroom,Mathematics,87.2,2.2,46.6,7.2,70.8,30.5,0,71.4,Average
+STU1977,Female,Blended,Computer Science,55.3,5.5,51.7,4.8,71.1,36.5,2,86.7,High
+STU1978,Male,Blended,Mathematics,80.6,3.2,52.2,6.2,63.7,29.0,2,65.2,Average
+STU1979,Female,Online,Mathematics,96.9,1.7,57.8,5.2,76.7,24.0,4,66.7,Average
+STU1980,Female,Blended,Social Science,83.9,4.5,56.9,10.0,77.1,31.2,0,95.0,High
+STU1981,Male,Classroom,Social Science,80.0,4.5,58.0,6.3,71.3,34.0,3,70.9,Average
+STU1982,Female,Classroom,English,71.3,1.5,50.4,9.9,63.7,37.3,2,67.3,Average
+STU1983,Male,Blended,English,78.4,4.1,37.5,6.1,62.4,36.2,1,72.1,Average
+STU1984,Female,Online,Computer Science,75.0,4.9,60.9,7.1,49.2,47.2,0,77.2,High
+STU1985,Male,Blended,Mathematics,68.6,4.4,32.9,3.6,56.5,20.0,0,67.1,Average
+STU1986,Male,Classroom,English,74.5,4.7,51.2,5.5,58.9,44.5,2,75.3,High
+STU1987,Male,Classroom,Mathematics,80.4,1.7,44.9,7.0,52.4,25.1,1,59.2,Average
+STU1988,Female,Blended,Science,68.8,4.3,60.1,10.0,72.7,35.0,2,83.9,High
+STU1989,Female,Online,Social Science,68.3,3.3,51.5,7.0,82.6,34.0,0,78.6,High
+STU1990,Female,Classroom,Computer Science,61.7,3.1,53.6,9.5,55.2,27.3,1,69.1,Average
+STU1991,Female,Classroom,Social Science,82.7,5.1,46.8,7.9,70.7,27.4,0,87.6,High
+STU1992,Male,Online,Computer Science,84.5,6.0,,10.0,53.6,57.7,2,87.7,High
+STU1993,Female,Classroom,Computer Science,80.8,6.5,51.6,6.4,63.0,52.1,1,100.0,High
+STU1994,Female,Classroom,Computer Science,89.6,5.8,54.0,10.0,58.0,47.5,1,84.5,High
+STU1995,Female,Classroom,Computer Science,79.1,3.6,54.8,5.4,74.8,27.4,2,69.5,Average
+STU1996,Male,Classroom,English,82.7,4.3,54.6,4.8,58.2,27.2,3,66.0,Average
+STU1997,Female,Classroom,Science,81.6,5.0,52.1,3.8,80.2,43.2,0,96.2,High
+STU1998,Female,Blended,English,76.9,4.0,60.8,10.0,63.8,51.7,0,79.9,High
+STU1999,Male,Blended,Science,71.6,4.0,50.7,8.3,58.6,38.7,2,77.0,High
+STU2000,Female,Blended,English,100.0,5.0,43.2,5.8,50.7,35.0,2,76.7,High
+STU1013,Female,Classroom,Science,72.0,3.9,55.5,7.9,61.5,25.1,3,69.4,Average
+STU1078,Male,Blended,Social Science,100.0,4.0,43.0,6.6,44.6,42.1,1,70.9,Average
+STU1151,Male,Blended,English,80.2,3.6,48.9,6.4,70.5,48.4,1,73.6,Average
