@@ -5,11 +5,10 @@ import pandas as pd
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent
-sys.path.append(str(ROOT / "src"))
 
-from preprocess import load_data, FEATURES
-from model import load_models
-from recommend import generate_recommendations
+from src.preprocess import load_data, NUMERIC_FEATURES, CATEGORICAL_FEATURES
+from src.model import load_models, FEATURES
+from src.recommend import generate_recommendations
 
 DATA_PATH = ROOT / "data" / "student_performance.csv"
 MODEL_DIR = ROOT / "models"
