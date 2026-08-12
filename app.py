@@ -4,7 +4,7 @@ import sys
 import pandas as pd
 import streamlit as st
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 sys.path.append(str(ROOT / "src"))
 
 from preprocess import load_data, FEATURES
