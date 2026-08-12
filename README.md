@@ -34,4 +34,12 @@ streamlit run app.py
 - `train.py` training script
 
 ## Deployment
-The project is deployment-ready for Streamlit Cloud or Render. A live deployment requires a user-owned hosting account/repository, so no fabricated deployment URL is included.
+## Deployment
+
+The application is deployed using Streamlit Community Cloud.
+
+Live Demo:
+https://student-performance-prediction-sansh.streamlit.app
+
+GitHub Repository:
+https://github.com/sansh9374-boop/Student-Performance-Prediction-System
